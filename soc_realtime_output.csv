@@ -1,501 +1,501 @@
-timestamp,description,prediction,risk_score,proba_normal,proba_fp,proba_attack,attack_threshold_used,true_class
-2026-05-15T11:29:15.497537,Web Scan detected,false_positive,0,0.027,0.973,0.0,0.15,false_positive
-2026-05-15T11:29:15.497626,DNS query,normal,0,0.606,0.394,0.0,0.15,normal
-2026-05-15T11:29:15.497649,Web traffic HTTPS,normal,0,0.67,0.33,0.0,0.15,normal
-2026-05-15T11:29:15.497662,DNS query,normal,0,0.625,0.375,0.0,0.15,normal
-2026-05-15T11:29:15.497672,Web Scan detected,false_positive,0,0.068,0.932,0.0,0.15,false_positive
-2026-05-15T11:29:15.497686,ICMP Ping Sweep,normal,0,0.999,0.001,0.0,0.15,false_positive
-2026-05-15T11:29:15.497697,FTP transfer,false_positive,0,0.405,0.595,0.0,0.15,normal
-2026-05-15T11:29:15.497707,DNS query,false_positive,0,0.387,0.613,0.0,0.15,normal
-2026-05-15T11:29:15.497718,Web Scan detected,false_positive,0,0.084,0.916,0.0,0.15,false_positive
-2026-05-15T11:29:15.497727,ICMP Ping Sweep,normal,0,0.909,0.091,0.0,0.15,false_positive
-2026-05-15T11:29:15.497737,Web Scan detected,false_positive,0,0.321,0.679,0.0,0.15,false_positive
-2026-05-15T11:29:15.497747,ICMP Ping Sweep,false_positive,0,0.04,0.96,0.0,0.15,false_positive
-2026-05-15T11:29:15.497756,Web Scan detected,false_positive,0,0.064,0.936,0.0,0.15,false_positive
-2026-05-15T11:29:15.497771,DNS query,normal,0,0.616,0.384,0.0,0.15,normal
-2026-05-15T11:29:15.497780,DNS query,normal,0,0.609,0.391,0.0,0.15,normal
-2026-05-15T11:29:15.497790,DNS query,normal,0,0.626,0.374,0.0,0.15,normal
-2026-05-15T11:29:15.497799,FTP transfer,false_positive,0,0.004,0.996,0.0,0.15,normal
-2026-05-15T11:29:15.497808,DNS query,normal,0,0.62,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.497817,DNS query,normal,0,0.573,0.427,0.0,0.15,normal
-2026-05-15T11:29:15.497826,DNS query,normal,0,0.588,0.411,0.0,0.15,normal
-2026-05-15T11:29:15.497835,ICMP Ping Sweep,normal,0,0.906,0.093,0.0,0.15,false_positive
-2026-05-15T11:29:15.497844,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.497853,ICMP Ping Sweep,false_positive,0,0.103,0.897,0.0,0.15,false_positive
-2026-05-15T11:29:15.497861,FTP transfer,false_positive,0,0.214,0.785,0.0,0.15,normal
-2026-05-15T11:29:15.497870,DNS query,normal,0,0.641,0.358,0.0,0.15,normal
-2026-05-15T11:29:15.497880,FTP transfer,false_positive,0,0.108,0.891,0.0,0.15,normal
-2026-05-15T11:29:15.497890,FTP transfer,false_positive,0,0.219,0.781,0.0,0.15,normal
-2026-05-15T11:29:15.497899,DNS query,normal,0,0.606,0.394,0.0,0.15,normal
-2026-05-15T11:29:15.497908,Web Scan detected,false_positive,0,0.064,0.936,0.0,0.15,false_positive
-2026-05-15T11:29:15.497916,DNS query,normal,0,0.576,0.424,0.0,0.15,normal
-2026-05-15T11:29:15.497925,DNS query,false_positive,0,0.432,0.568,0.0,0.15,normal
-2026-05-15T11:29:15.497934,Web Scan detected,false_positive,0,0.056,0.944,0.0,0.15,false_positive
-2026-05-15T11:29:15.497942,Web traffic HTTPS,normal,0,0.784,0.216,0.0,0.15,normal
-2026-05-15T11:29:15.497952,FTP transfer,false_positive,0,0.224,0.776,0.0,0.15,normal
-2026-05-15T11:29:15.497960,FTP transfer,false_positive,0,0.231,0.768,0.0,0.15,normal
-2026-05-15T11:29:15.497970,Web Scan detected,false_positive,0,0.061,0.939,0.0,0.15,false_positive
-2026-05-15T11:29:15.497979,FTP transfer,false_positive,0,0.005,0.995,0.0,0.15,normal
-2026-05-15T11:29:15.497987,ICMP Ping Sweep,normal,0,0.916,0.083,0.0,0.15,false_positive
-2026-05-15T11:29:15.497996,FTP transfer,normal,0,0.574,0.426,0.0,0.15,normal
-2026-05-15T11:29:15.498004,FTP transfer,false_positive,0,0.246,0.754,0.0,0.15,normal
-2026-05-15T11:29:15.498013,SSH Brute Force attempt,attack,56,0.17,0.576,0.253,0.15,attack
-2026-05-15T11:29:15.498022,FTP transfer,false_positive,0,0.231,0.769,0.0,0.15,normal
-2026-05-15T11:29:15.498031,DNS query,normal,0,0.594,0.405,0.0,0.15,normal
-2026-05-15T11:29:15.498040,Web Scan detected,false_positive,0,0.094,0.905,0.0,0.15,false_positive
-2026-05-15T11:29:15.498048,DNS query,normal,0,0.61,0.39,0.0,0.15,normal
-2026-05-15T11:29:15.498058,Web traffic HTTPS,false_positive,0,0.419,0.581,0.0,0.15,normal
-2026-05-15T11:29:15.498069,Web Scan detected,false_positive,0,0.095,0.905,0.0,0.15,false_positive
-2026-05-15T11:29:15.498078,FTP transfer,false_positive,0,0.294,0.706,0.0,0.15,normal
-2026-05-15T11:29:15.498086,DNS query,normal,0,0.642,0.358,0.0,0.15,normal
-2026-05-15T11:29:15.498095,Web traffic HTTPS,normal,0,0.663,0.336,0.0,0.15,normal
-2026-05-15T11:29:15.498104,DNS query,normal,0,0.618,0.382,0.0,0.15,normal
-2026-05-15T11:29:15.498112,FTP transfer,false_positive,0,0.362,0.637,0.0,0.15,normal
-2026-05-15T11:29:15.498121,FTP transfer,false_positive,0,0.252,0.748,0.0,0.15,normal
-2026-05-15T11:29:15.498130,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.498139,FTP transfer,false_positive,0,0.187,0.813,0.0,0.15,normal
-2026-05-15T11:29:15.498148,SQL Injection pattern,normal,0,0.995,0.005,0.001,0.15,attack
-2026-05-15T11:29:15.498157,DNS query,normal,0,0.604,0.396,0.0,0.15,normal
-2026-05-15T11:29:15.498166,Web Scan detected,false_positive,0,0.102,0.897,0.0,0.15,false_positive
-2026-05-15T11:29:15.498175,FTP transfer,false_positive,0,0.258,0.742,0.0,0.15,normal
-2026-05-15T11:29:15.498184,DNS query,normal,0,0.62,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.498193,ICMP Ping Sweep,normal,0,0.922,0.078,0.0,0.15,false_positive
-2026-05-15T11:29:15.498201,FTP transfer,false_positive,0,0.004,0.996,0.0,0.15,normal
-2026-05-15T11:29:15.498210,Web Scan detected,false_positive,0,0.376,0.623,0.0,0.15,false_positive
-2026-05-15T11:29:15.498219,FTP transfer,false_positive,0,0.243,0.757,0.0,0.15,normal
-2026-05-15T11:29:15.498227,Web traffic HTTPS,normal,0,0.638,0.362,0.0,0.15,normal
-2026-05-15T11:29:15.498238,SQL Injection pattern,normal,0,0.995,0.004,0.001,0.15,attack
-2026-05-15T11:29:15.498247,DNS query,normal,0,0.676,0.324,0.0,0.15,normal
-2026-05-15T11:29:15.498256,DNS query,normal,0,0.601,0.399,0.0,0.15,normal
-2026-05-15T11:29:15.498265,ICMP Ping Sweep,false_positive,0,0.02,0.98,0.0,0.15,false_positive
-2026-05-15T11:29:15.498274,DNS query,normal,0,0.596,0.404,0.0,0.15,normal
-2026-05-15T11:29:15.498282,DNS query,normal,0,0.624,0.376,0.0,0.15,normal
-2026-05-15T11:29:15.498291,Web Scan detected,false_positive,0,0.102,0.898,0.0,0.15,false_positive
-2026-05-15T11:29:15.498299,SSH Brute Force attempt,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.498308,ICMP Ping Sweep,normal,0,0.91,0.09,0.0,0.15,false_positive
-2026-05-15T11:29:15.498317,ICMP Ping Sweep,false_positive,0,0.423,0.576,0.001,0.15,false_positive
-2026-05-15T11:29:15.498326,Hydra HTTP Tool detected,false_positive,0,0.006,0.994,0.0,0.15,attack
-2026-05-15T11:29:15.498335,FTP transfer,false_positive,0,0.267,0.733,0.0,0.15,normal
-2026-05-15T11:29:15.498345,ICMP Ping Sweep,normal,0,0.909,0.091,0.0,0.15,false_positive
-2026-05-15T11:29:15.498354,Web traffic HTTPS,false_positive,0,0.419,0.581,0.0,0.15,normal
-2026-05-15T11:29:15.498363,FTP transfer,false_positive,0,0.232,0.768,0.0,0.15,normal
-2026-05-15T11:29:15.498372,Web traffic HTTPS,normal,0,0.524,0.476,0.001,0.15,normal
-2026-05-15T11:29:15.498381,FTP transfer,false_positive,0,0.099,0.9,0.0,0.15,normal
-2026-05-15T11:29:15.498389,ICMP Ping Sweep,false_positive,0,0.016,0.984,0.0,0.15,false_positive
-2026-05-15T11:29:15.498398,FTP transfer,false_positive,0,0.213,0.787,0.0,0.15,normal
-2026-05-15T11:29:15.498408,ICMP Ping Sweep,normal,0,0.91,0.09,0.0,0.15,false_positive
-2026-05-15T11:29:15.498710,Web traffic HTTPS,normal,0,0.595,0.405,0.0,0.15,normal
-2026-05-15T11:29:15.498727,Web traffic HTTPS,false_positive,0,0.426,0.574,0.0,0.15,normal
-2026-05-15T11:29:15.498737,Web Scan detected,false_positive,0,0.129,0.871,0.0,0.15,false_positive
-2026-05-15T11:29:15.498747,SSH Brute Force attempt,normal,1,0.894,0.101,0.005,0.15,attack
-2026-05-15T11:29:15.498756,DNS query,normal,0,0.609,0.391,0.0,0.15,normal
-2026-05-15T11:29:15.498765,Web Scan detected,false_positive,0,0.252,0.747,0.0,0.15,false_positive
-2026-05-15T11:29:15.498773,DNS query,normal,0,0.594,0.406,0.0,0.15,normal
-2026-05-15T11:29:15.498782,FTP transfer,false_positive,0,0.236,0.763,0.0,0.15,normal
-2026-05-15T11:29:15.498791,DNS query,normal,0,0.615,0.385,0.0,0.15,normal
-2026-05-15T11:29:15.498800,Web traffic HTTPS,false_positive,0,0.154,0.845,0.0,0.15,normal
-2026-05-15T11:29:15.498811,DNS query,normal,0,0.601,0.399,0.0,0.15,normal
-2026-05-15T11:29:15.498819,Web traffic HTTPS,normal,0,0.676,0.324,0.0,0.15,normal
-2026-05-15T11:29:15.498828,FTP transfer,false_positive,0,0.221,0.779,0.0,0.15,normal
-2026-05-15T11:29:15.498837,Web traffic HTTPS,normal,0,0.626,0.374,0.0,0.15,normal
-2026-05-15T11:29:15.498846,Web traffic HTTPS,normal,0,0.674,0.326,0.0,0.15,normal
-2026-05-15T11:29:15.498854,FTP transfer,false_positive,0,0.245,0.755,0.0,0.15,normal
-2026-05-15T11:29:15.498863,Web traffic HTTPS,false_positive,0,0.369,0.631,0.0,0.15,normal
-2026-05-15T11:29:15.498873,DNS query,normal,0,0.607,0.393,0.0,0.15,normal
-2026-05-15T11:29:15.498882,Hydra HTTP Tool detected,attack,58,0.485,0.225,0.289,0.15,attack
-2026-05-15T11:29:15.498891,Web traffic HTTPS,normal,0,0.672,0.328,0.0,0.15,normal
-2026-05-15T11:29:15.498902,Web traffic HTTPS,normal,0,0.672,0.328,0.0,0.15,normal
-2026-05-15T11:29:15.498910,FTP transfer,false_positive,0,0.25,0.749,0.0,0.15,normal
-2026-05-15T11:29:15.498919,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.498928,DNS query,normal,0,0.829,0.171,0.0,0.15,normal
-2026-05-15T11:29:15.498937,DNS query,normal,0,0.644,0.356,0.0,0.15,normal
-2026-05-15T11:29:15.498946,Web Scan detected,normal,0,0.621,0.379,0.0,0.15,false_positive
-2026-05-15T11:29:15.498955,SQL Injection pattern,attack,57,0.486,0.243,0.271,0.15,attack
-2026-05-15T11:29:15.498963,DNS query,normal,0,0.639,0.361,0.0,0.15,normal
-2026-05-15T11:29:15.498971,FTP transfer,false_positive,0,0.221,0.779,0.0,0.15,normal
-2026-05-15T11:29:15.498980,DNS query,normal,0,0.604,0.395,0.0,0.15,normal
-2026-05-15T11:29:15.498989,Web traffic HTTPS,normal,0,0.513,0.487,0.0,0.15,normal
-2026-05-15T11:29:15.498998,FTP transfer,false_positive,0,0.003,0.997,0.0,0.15,normal
-2026-05-15T11:29:15.499007,Web Scan detected,false_positive,0,0.085,0.915,0.0,0.15,false_positive
-2026-05-15T11:29:15.499015,FTP transfer,false_positive,0,0.007,0.993,0.0,0.15,normal
-2026-05-15T11:29:15.499024,FTP transfer,false_positive,0,0.248,0.752,0.0,0.15,normal
-2026-05-15T11:29:15.499033,FTP transfer,false_positive,0,0.253,0.747,0.0,0.15,normal
-2026-05-15T11:29:15.499043,Web traffic HTTPS,normal,0,0.652,0.348,0.0,0.15,normal
-2026-05-15T11:29:15.499052,Web Scan detected,false_positive,0,0.225,0.775,0.0,0.15,false_positive
-2026-05-15T11:29:15.499061,ICMP Ping Sweep,normal,0,0.999,0.001,0.0,0.15,false_positive
-2026-05-15T11:29:15.499070,Web Scan detected,false_positive,0,0.106,0.894,0.0,0.15,false_positive
-2026-05-15T11:29:15.499081,DNS query,normal,0,0.63,0.369,0.0,0.15,normal
-2026-05-15T11:29:15.499089,DNS query,false_positive,0,0.416,0.584,0.0,0.15,normal
-2026-05-15T11:29:15.499098,Web traffic HTTPS,normal,0,0.784,0.216,0.0,0.15,normal
-2026-05-15T11:29:15.499106,Web traffic HTTPS,normal,0,0.666,0.334,0.0,0.15,normal
-2026-05-15T11:29:15.499116,DNS query,normal,0,0.633,0.367,0.0,0.15,normal
-2026-05-15T11:29:15.499124,FTP transfer,false_positive,0,0.236,0.763,0.0,0.15,normal
-2026-05-15T11:29:15.499133,Web traffic HTTPS,normal,0,0.62,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.499142,DNS query,normal,0,0.61,0.389,0.0,0.15,normal
-2026-05-15T11:29:15.499151,DNS query,normal,0,0.629,0.371,0.0,0.15,normal
-2026-05-15T11:29:15.499160,Web Scan detected,false_positive,0,0.131,0.869,0.0,0.15,false_positive
-2026-05-15T11:29:15.499170,FTP transfer,normal,0,0.563,0.437,0.0,0.15,normal
-2026-05-15T11:29:15.499179,ICMP Ping Sweep,normal,0,0.891,0.109,0.0,0.15,false_positive
-2026-05-15T11:29:15.499187,FTP transfer,false_positive,0,0.279,0.721,0.0,0.15,normal
-2026-05-15T11:29:15.499196,DNS query,false_positive,0,0.445,0.554,0.0,0.15,normal
-2026-05-15T11:29:15.499205,Web Scan detected,false_positive,0,0.088,0.912,0.0,0.15,false_positive
-2026-05-15T11:29:15.499215,ICMP Ping Sweep,false_positive,0,0.301,0.699,0.0,0.15,false_positive
-2026-05-15T11:29:15.499223,Web Scan detected,normal,0,1.0,0.0,0.0,0.15,false_positive
-2026-05-15T11:29:15.499232,DNS query,normal,0,0.613,0.386,0.0,0.15,normal
-2026-05-15T11:29:15.499241,Web traffic HTTPS,normal,0,0.806,0.194,0.0,0.15,normal
-2026-05-15T11:29:15.499249,DNS query,normal,0,0.627,0.373,0.0,0.15,normal
-2026-05-15T11:29:15.499259,Web Scan detected,false_positive,0,0.069,0.931,0.0,0.15,false_positive
-2026-05-15T11:29:15.499267,DNS query,normal,0,0.684,0.316,0.0,0.15,normal
-2026-05-15T11:29:15.499276,Web traffic HTTPS,false_positive,0,0.437,0.562,0.0,0.15,normal
-2026-05-15T11:29:15.499285,DNS query,false_positive,0,0.423,0.576,0.0,0.15,normal
-2026-05-15T11:29:15.499294,Web Scan detected,false_positive,0,0.086,0.914,0.0,0.15,false_positive
-2026-05-15T11:29:15.499302,FTP transfer,false_positive,0,0.228,0.771,0.0,0.15,normal
-2026-05-15T11:29:15.499311,ICMP Ping Sweep,normal,0,0.889,0.111,0.0,0.15,false_positive
-2026-05-15T11:29:15.499321,SSH Brute Force attempt,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.499329,Web traffic HTTPS,false_positive,0,0.409,0.59,0.0,0.15,normal
-2026-05-15T11:29:15.499339,DNS query,false_positive,0,0.419,0.581,0.0,0.15,normal
-2026-05-15T11:29:15.499349,Web traffic HTTPS,false_positive,0,0.439,0.561,0.0,0.15,normal
-2026-05-15T11:29:15.499358,DNS query,normal,0,0.656,0.344,0.0,0.15,normal
-2026-05-15T11:29:15.499367,DNS query,normal,0,0.539,0.46,0.0,0.15,normal
-2026-05-15T11:29:15.499375,Web Scan detected,false_positive,0,0.05,0.95,0.0,0.15,false_positive
-2026-05-15T11:29:15.499384,ICMP Ping Sweep,normal,0,0.958,0.041,0.0,0.15,false_positive
-2026-05-15T11:29:15.499392,Web Scan detected,false_positive,0,0.064,0.936,0.0,0.15,false_positive
-2026-05-15T11:29:15.499401,DNS query,normal,0,0.607,0.393,0.0,0.15,normal
-2026-05-15T11:29:15.499409,FTP transfer,false_positive,0,0.231,0.769,0.0,0.15,normal
-2026-05-15T11:29:15.499418,FTP transfer,false_positive,0,0.239,0.761,0.0,0.15,normal
-2026-05-15T11:29:15.499426,FTP transfer,false_positive,0,0.259,0.74,0.0,0.15,normal
-2026-05-15T11:29:15.499436,DNS query,normal,0,0.83,0.169,0.0,0.15,normal
-2026-05-15T11:29:15.499445,Web Scan detected,normal,0,1.0,0.0,0.0,0.15,false_positive
-2026-05-15T11:29:15.499453,Web traffic HTTPS,normal,0,0.663,0.337,0.0,0.15,normal
-2026-05-15T11:29:15.499462,Web traffic HTTPS,normal,0,0.661,0.339,0.0,0.15,normal
-2026-05-15T11:29:15.499470,Web traffic HTTPS,false_positive,0,0.148,0.852,0.0,0.15,normal
-2026-05-15T11:29:15.499479,SQL Injection pattern,attack,53,0.569,0.224,0.207,0.15,attack
-2026-05-15T11:29:15.499488,ICMP Ping Sweep,false_positive,0,0.18,0.82,0.0,0.15,false_positive
-2026-05-15T11:29:15.499496,ICMP Ping Sweep,normal,0,0.916,0.084,0.0,0.15,false_positive
-2026-05-15T11:29:15.499505,ICMP Ping Sweep,false_positive,0,0.434,0.566,0.0,0.15,false_positive
-2026-05-15T11:29:15.499514,Web traffic HTTPS,normal,0,0.563,0.437,0.0,0.15,normal
-2026-05-15T11:29:15.499524,DNS query,normal,0,0.61,0.39,0.0,0.15,normal
-2026-05-15T11:29:15.499533,Web traffic HTTPS,normal,0,0.646,0.353,0.0,0.15,normal
-2026-05-15T11:29:15.499541,Web traffic HTTPS,normal,0,0.645,0.355,0.0,0.15,normal
-2026-05-15T11:29:15.499550,DNS query,normal,0,0.82,0.179,0.0,0.15,normal
-2026-05-15T11:29:15.499558,FTP transfer,false_positive,0,0.238,0.761,0.0,0.15,normal
-2026-05-15T11:29:15.499567,DNS query,false_positive,0,0.399,0.601,0.0,0.15,normal
-2026-05-15T11:29:15.499576,Web traffic HTTPS,false_positive,0,0.426,0.574,0.0,0.15,normal
-2026-05-15T11:29:15.499585,FTP transfer,false_positive,0,0.231,0.769,0.0,0.15,normal
-2026-05-15T11:29:15.499593,SQL Injection pattern,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.499601,DNS query,normal,0,0.614,0.386,0.0,0.15,normal
-2026-05-15T11:29:15.499881,SSH Brute Force attempt,normal,1,0.947,0.049,0.004,0.15,attack
-2026-05-15T11:29:15.499914,Web traffic HTTPS,false_positive,0,0.487,0.513,0.0,0.15,normal
-2026-05-15T11:29:15.499926,Web Scan detected,false_positive,0,0.054,0.946,0.0,0.15,false_positive
-2026-05-15T11:29:15.499936,Web Scan detected,false_positive,0,0.057,0.943,0.0,0.15,false_positive
-2026-05-15T11:29:15.499945,Web Scan detected,false_positive,0,0.069,0.93,0.0,0.15,false_positive
-2026-05-15T11:29:15.499954,Web traffic HTTPS,normal,0,0.666,0.334,0.0,0.15,normal
-2026-05-15T11:29:15.499963,Web traffic HTTPS,normal,0,0.722,0.278,0.0,0.15,normal
-2026-05-15T11:29:15.499972,Web Scan detected,false_positive,0,0.088,0.912,0.0,0.15,false_positive
-2026-05-15T11:29:15.499980,DNS query,normal,0,0.597,0.403,0.0,0.15,normal
-2026-05-15T11:29:15.499989,DNS query,normal,0,0.619,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.500001,Web traffic HTTPS,normal,0,0.611,0.389,0.0,0.15,normal
-2026-05-15T11:29:15.500010,Web traffic HTTPS,normal,0,0.657,0.343,0.0,0.15,normal
-2026-05-15T11:29:15.500019,Web Scan detected,false_positive,0,0.089,0.91,0.0,0.15,false_positive
-2026-05-15T11:29:15.500028,FTP transfer,false_positive,0,0.242,0.758,0.0,0.15,normal
-2026-05-15T11:29:15.500036,Web traffic HTTPS,normal,0,0.807,0.193,0.0,0.15,normal
-2026-05-15T11:29:15.500045,ICMP Ping Sweep,normal,0,0.911,0.089,0.0,0.15,false_positive
-2026-05-15T11:29:15.500056,Web Scan detected,false_positive,0,0.075,0.925,0.0,0.15,false_positive
-2026-05-15T11:29:15.500064,FTP transfer,false_positive,0,0.232,0.768,0.0,0.15,normal
-2026-05-15T11:29:15.500074,FTP transfer,false_positive,0,0.263,0.737,0.0,0.15,normal
-2026-05-15T11:29:15.500083,Web traffic HTTPS,false_positive,0,0.431,0.569,0.0,0.15,normal
-2026-05-15T11:29:15.500094,FTP transfer,false_positive,0,0.226,0.774,0.0,0.15,normal
-2026-05-15T11:29:15.500103,ICMP Ping Sweep,normal,0,0.964,0.036,0.0,0.15,false_positive
-2026-05-15T11:29:15.500112,Web traffic HTTPS,false_positive,0,0.436,0.564,0.0,0.15,normal
-2026-05-15T11:29:15.500120,DNS query,normal,0,0.824,0.176,0.0,0.15,normal
-2026-05-15T11:29:15.500130,Web traffic HTTPS,false_positive,0,0.4,0.599,0.0,0.15,normal
-2026-05-15T11:29:15.500139,DNS query,normal,0,0.653,0.347,0.0,0.15,normal
-2026-05-15T11:29:15.500147,FTP transfer,false_positive,0,0.266,0.734,0.0,0.15,normal
-2026-05-15T11:29:15.500156,ICMP Ping Sweep,normal,0,0.909,0.09,0.0,0.15,false_positive
-2026-05-15T11:29:15.500165,FTP transfer,false_positive,0,0.109,0.891,0.0,0.15,normal
-2026-05-15T11:29:15.500173,FTP transfer,false_positive,0,0.185,0.815,0.0,0.15,normal
-2026-05-15T11:29:15.500183,Web traffic HTTPS,normal,0,0.63,0.37,0.0,0.15,normal
-2026-05-15T11:29:15.500191,DNS query,false_positive,0,0.459,0.541,0.0,0.15,normal
-2026-05-15T11:29:15.500200,Web Scan detected,false_positive,0,0.065,0.935,0.0,0.15,false_positive
-2026-05-15T11:29:15.500210,DNS query,normal,0,0.6,0.4,0.0,0.15,normal
-2026-05-15T11:29:15.500219,Web Scan detected,false_positive,0,0.202,0.797,0.0,0.15,false_positive
-2026-05-15T11:29:15.500228,Web traffic HTTPS,normal,0,0.791,0.208,0.0,0.15,normal
-2026-05-15T11:29:15.500236,ICMP Ping Sweep,false_positive,0,0.122,0.878,0.0,0.15,false_positive
-2026-05-15T11:29:15.500245,ICMP Ping Sweep,false_positive,0,0.362,0.638,0.0,0.15,false_positive
-2026-05-15T11:29:15.500253,Web traffic HTTPS,false_positive,0,0.46,0.54,0.001,0.15,normal
-2026-05-15T11:29:15.500262,ICMP Ping Sweep,normal,0,0.904,0.096,0.0,0.15,false_positive
-2026-05-15T11:29:15.500272,FTP transfer,false_positive,0,0.016,0.984,0.0,0.15,normal
-2026-05-15T11:29:15.500280,DNS query,normal,0,0.623,0.377,0.0,0.15,normal
-2026-05-15T11:29:15.500289,FTP transfer,false_positive,0,0.125,0.875,0.0,0.15,normal
-2026-05-15T11:29:15.500298,DNS query,false_positive,0,0.366,0.634,0.0,0.15,normal
-2026-05-15T11:29:15.500307,Web traffic HTTPS,false_positive,0,0.431,0.569,0.0,0.15,normal
-2026-05-15T11:29:15.500316,Web Scan detected,normal,0,1.0,0.0,0.0,0.15,false_positive
-2026-05-15T11:29:15.500324,Web traffic HTTPS,false_positive,0,0.435,0.564,0.0,0.15,normal
-2026-05-15T11:29:15.500333,Web traffic HTTPS,normal,0,0.707,0.293,0.0,0.15,normal
-2026-05-15T11:29:15.500342,Web Scan detected,false_positive,0,0.086,0.914,0.0,0.15,false_positive
-2026-05-15T11:29:15.500351,Web Scan detected,false_positive,0,0.072,0.928,0.0,0.15,false_positive
-2026-05-15T11:29:15.500361,DNS query,normal,0,0.598,0.401,0.0,0.15,normal
-2026-05-15T11:29:15.500370,ICMP Ping Sweep,false_positive,0,0.433,0.567,0.0,0.15,false_positive
-2026-05-15T11:29:15.500378,Web traffic HTTPS,normal,0,0.679,0.321,0.0,0.15,normal
-2026-05-15T11:29:15.500387,Web traffic HTTPS,normal,0,0.657,0.343,0.0,0.15,normal
-2026-05-15T11:29:15.500395,SQL Injection pattern,attack,53,0.395,0.388,0.218,0.15,attack
-2026-05-15T11:29:15.500404,DNS query,normal,0,0.58,0.42,0.0,0.15,normal
-2026-05-15T11:29:15.500412,DNS query,normal,0,0.631,0.369,0.0,0.15,normal
-2026-05-15T11:29:15.500421,ICMP Ping Sweep,normal,0,0.916,0.084,0.0,0.15,false_positive
-2026-05-15T11:29:15.500430,FTP transfer,normal,0,0.591,0.408,0.0,0.15,normal
-2026-05-15T11:29:15.500438,Web traffic HTTPS,false_positive,0,0.415,0.585,0.0,0.15,normal
-2026-05-15T11:29:15.500449,Web Scan detected,false_positive,0,0.082,0.916,0.002,0.15,false_positive
-2026-05-15T11:29:15.500459,Web traffic HTTPS,normal,0,0.639,0.361,0.0,0.15,normal
-2026-05-15T11:29:15.500468,Web Scan detected,false_positive,0,0.065,0.935,0.0,0.15,false_positive
-2026-05-15T11:29:15.500478,DNS query,normal,0,0.618,0.382,0.0,0.15,normal
-2026-05-15T11:29:15.500487,SSH Brute Force attempt,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.500496,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.500505,DNS query,normal,0,0.573,0.427,0.0,0.15,normal
-2026-05-15T11:29:15.500514,FTP transfer,false_positive,0,0.362,0.637,0.0,0.15,normal
-2026-05-15T11:29:15.500522,DNS query,normal,0,0.825,0.175,0.0,0.15,normal
-2026-05-15T11:29:15.500532,Web traffic HTTPS,false_positive,0,0.375,0.624,0.0,0.15,normal
-2026-05-15T11:29:15.500542,DNS query,normal,0,0.585,0.414,0.0,0.15,normal
-2026-05-15T11:29:15.500551,FTP transfer,false_positive,0,0.118,0.881,0.0,0.15,normal
-2026-05-15T11:29:15.500559,DNS query,normal,0,0.644,0.356,0.0,0.15,normal
-2026-05-15T11:29:15.500569,Web traffic HTTPS,normal,0,0.675,0.325,0.0,0.15,normal
-2026-05-15T11:29:15.500577,SSH Brute Force attempt,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.500586,Web Scan detected,false_positive,0,0.103,0.897,0.0,0.15,false_positive
-2026-05-15T11:29:15.500594,FTP transfer,false_positive,0,0.2,0.8,0.0,0.15,normal
-2026-05-15T11:29:15.500603,FTP transfer,false_positive,0,0.226,0.774,0.0,0.15,normal
-2026-05-15T11:29:15.500612,Web Scan detected,false_positive,0,0.11,0.89,0.0,0.15,false_positive
-2026-05-15T11:29:15.500620,ICMP Ping Sweep,normal,0,0.906,0.094,0.0,0.15,false_positive
-2026-05-15T11:29:15.500630,FTP transfer,false_positive,0,0.247,0.752,0.0,0.15,normal
-2026-05-15T11:29:15.500639,FTP transfer,false_positive,0,0.2,0.8,0.0,0.15,normal
-2026-05-15T11:29:15.500649,SQL Injection pattern,normal,0,0.993,0.006,0.001,0.15,attack
-2026-05-15T11:29:15.500657,FTP transfer,false_positive,0,0.224,0.776,0.0,0.15,normal
-2026-05-15T11:29:15.500667,Web traffic HTTPS,normal,0,0.679,0.321,0.0,0.15,normal
-2026-05-15T11:29:15.500676,ICMP Ping Sweep,normal,0,0.903,0.097,0.0,0.15,false_positive
-2026-05-15T11:29:15.500685,Web Scan detected,false_positive,0,0.154,0.846,0.0,0.15,false_positive
-2026-05-15T11:29:15.500694,SSH Brute Force attempt,normal,1,0.923,0.073,0.004,0.15,attack
-2026-05-15T11:29:15.500702,FTP transfer,false_positive,0,0.252,0.747,0.0,0.15,normal
-2026-05-15T11:29:15.500711,ICMP Ping Sweep,false_positive,0,0.285,0.714,0.001,0.15,false_positive
-2026-05-15T11:29:15.500721,Web Scan detected,false_positive,0,0.096,0.902,0.002,0.15,false_positive
-2026-05-15T11:29:15.500730,ICMP Ping Sweep,normal,0,0.918,0.081,0.0,0.15,false_positive
-2026-05-15T11:29:15.500738,Web Scan detected,false_positive,0,0.248,0.752,0.0,0.15,false_positive
-2026-05-15T11:29:15.500747,Web traffic HTTPS,normal,0,0.662,0.338,0.0,0.15,normal
-2026-05-15T11:29:15.500755,DNS query,normal,0,0.707,0.293,0.0,0.15,normal
-2026-05-15T11:29:15.500764,DNS query,normal,0,0.651,0.349,0.0,0.15,normal
-2026-05-15T11:29:15.500773,FTP transfer,false_positive,0,0.24,0.759,0.0,0.15,normal
-2026-05-15T11:29:15.500782,Web Scan detected,normal,0,1.0,0.0,0.0,0.15,false_positive
-2026-05-15T11:29:15.500796,Web Scan detected,false_positive,0,0.15,0.85,0.0,0.15,false_positive
-2026-05-15T11:29:15.500805,SQL Injection pattern,normal,0,0.993,0.007,0.001,0.15,attack
-2026-05-15T11:29:15.500815,Web Scan detected,false_positive,1,0.163,0.833,0.003,0.15,false_positive
-2026-05-15T11:29:15.500823,ICMP Ping Sweep,normal,0,0.507,0.493,0.001,0.15,false_positive
-2026-05-15T11:29:15.500832,Web traffic HTTPS,normal,0,0.672,0.327,0.0,0.15,normal
-2026-05-15T11:29:15.500841,Web traffic HTTPS,false_positive,0,0.135,0.865,0.0,0.15,normal
-2026-05-15T11:29:15.500849,DNS query,normal,0,0.599,0.401,0.0,0.15,normal
-2026-05-15T11:29:15.500858,DNS query,false_positive,0,0.478,0.522,0.0,0.15,normal
-2026-05-15T11:29:15.500866,Web traffic HTTPS,normal,0,0.653,0.347,0.0,0.15,normal
-2026-05-15T11:29:15.500875,DNS query,normal,0,0.539,0.46,0.0,0.15,normal
-2026-05-15T11:29:15.500884,Web traffic HTTPS,normal,0,0.706,0.294,0.0,0.15,normal
-2026-05-15T11:29:15.500892,ICMP Ping Sweep,normal,0,0.918,0.081,0.0,0.15,false_positive
-2026-05-15T11:29:15.500902,FTP transfer,false_positive,0,0.219,0.781,0.0,0.15,normal
-2026-05-15T11:29:15.500910,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.500919,SQL Injection pattern,attack,58,0.476,0.237,0.287,0.15,attack
-2026-05-15T11:29:15.500928,DNS query,normal,0,0.643,0.356,0.0,0.15,normal
-2026-05-15T11:29:15.500936,FTP transfer,false_positive,0,0.113,0.887,0.0,0.15,normal
-2026-05-15T11:29:15.500945,Web traffic HTTPS,false_positive,0,0.395,0.604,0.0,0.15,normal
-2026-05-15T11:29:15.500953,Web traffic HTTPS,false_positive,0,0.362,0.638,0.0,0.15,normal
-2026-05-15T11:29:15.500961,DNS query,normal,0,0.601,0.399,0.0,0.15,normal
-2026-05-15T11:29:15.500971,DNS query,normal,0,0.593,0.406,0.0,0.15,normal
-2026-05-15T11:29:15.500979,FTP transfer,false_positive,0,0.247,0.753,0.0,0.15,normal
-2026-05-15T11:29:15.500990,Web traffic HTTPS,normal,0,0.657,0.343,0.0,0.15,normal
-2026-05-15T11:29:15.501000,FTP transfer,normal,0,0.572,0.427,0.0,0.15,normal
-2026-05-15T11:29:15.501010,DNS query,normal,0,0.609,0.391,0.0,0.15,normal
-2026-05-15T11:29:15.501019,Web Scan detected,false_positive,0,0.152,0.848,0.0,0.15,false_positive
-2026-05-15T11:29:15.501029,Web Scan detected,false_positive,0,0.255,0.745,0.0,0.15,false_positive
-2026-05-15T11:29:15.501038,ICMP Ping Sweep,normal,0,0.891,0.109,0.0,0.15,false_positive
-2026-05-15T11:29:15.501047,Web Scan detected,false_positive,0,0.064,0.936,0.0,0.15,false_positive
-2026-05-15T11:29:15.501055,FTP transfer,false_positive,0,0.206,0.794,0.0,0.15,normal
-2026-05-15T11:29:15.501064,Web Scan detected,false_positive,0,0.094,0.906,0.0,0.15,false_positive
-2026-05-15T11:29:15.501073,ICMP Ping Sweep,false_positive,0,0.388,0.612,0.0,0.15,false_positive
-2026-05-15T11:29:15.501083,Web traffic HTTPS,normal,0,0.923,0.077,0.0,0.15,normal
-2026-05-15T11:29:15.501091,DNS query,normal,0,0.827,0.173,0.0,0.15,normal
-2026-05-15T11:29:15.501100,FTP transfer,false_positive,0,0.111,0.889,0.0,0.15,normal
-2026-05-15T11:29:15.501108,DNS query,normal,0,0.604,0.395,0.0,0.15,normal
-2026-05-15T11:29:15.501117,ICMP Ping Sweep,normal,0,0.922,0.078,0.0,0.15,false_positive
-2026-05-15T11:29:15.501125,SSH Brute Force attempt,normal,1,0.863,0.132,0.005,0.15,attack
-2026-05-15T11:29:15.501134,Web Scan detected,false_positive,0,0.069,0.931,0.0,0.15,false_positive
-2026-05-15T11:29:15.501143,Web Scan detected,normal,0,0.637,0.362,0.0,0.15,false_positive
-2026-05-15T11:29:15.501151,DNS query,normal,0,0.619,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.501160,Web traffic HTTPS,normal,0,0.653,0.347,0.0,0.15,normal
-2026-05-15T11:29:15.501169,Web traffic HTTPS,normal,0,0.688,0.312,0.0,0.15,normal
-2026-05-15T11:29:15.501178,SSH Brute Force attempt,attack,55,0.153,0.596,0.251,0.15,attack
-2026-05-15T11:29:15.501187,Web traffic HTTPS,false_positive,0,0.496,0.503,0.0,0.15,normal
-2026-05-15T11:29:15.501195,FTP transfer,false_positive,0,0.25,0.75,0.0,0.15,normal
-2026-05-15T11:29:15.501204,SQL Injection pattern,normal,0,0.992,0.008,0.001,0.15,attack
-2026-05-15T11:29:15.501212,FTP transfer,false_positive,0,0.27,0.73,0.0,0.15,normal
-2026-05-15T11:29:15.501221,FTP transfer,normal,0,0.59,0.41,0.0,0.15,normal
-2026-05-15T11:29:15.501229,Web traffic HTTPS,normal,0,0.635,0.364,0.0,0.15,normal
-2026-05-15T11:29:15.501237,FTP transfer,false_positive,0,0.239,0.761,0.0,0.15,normal
-2026-05-15T11:29:15.501246,Web Scan detected,false_positive,0,0.067,0.933,0.0,0.15,false_positive
-2026-05-15T11:29:15.501256,FTP transfer,false_positive,0,0.267,0.733,0.0,0.15,normal
-2026-05-15T11:29:15.501264,ICMP Ping Sweep,normal,0,0.891,0.108,0.0,0.15,false_positive
-2026-05-15T11:29:15.501273,FTP transfer,false_positive,0,0.139,0.861,0.0,0.15,normal
-2026-05-15T11:29:15.501281,Web traffic HTTPS,normal,0,0.67,0.329,0.0,0.15,normal
-2026-05-15T11:29:15.501290,DNS query,normal,0,0.567,0.433,0.0,0.15,normal
-2026-05-15T11:29:15.501298,ICMP Ping Sweep,false_positive,0,0.49,0.51,0.001,0.15,false_positive
-2026-05-15T11:29:15.501307,DNS query,false_positive,0,0.391,0.609,0.0,0.15,normal
-2026-05-15T11:29:15.501315,DNS query,normal,0,0.809,0.191,0.0,0.15,normal
-2026-05-15T11:29:15.501324,FTP transfer,false_positive,0,0.004,0.996,0.0,0.15,normal
-2026-05-15T11:29:15.501332,ICMP Ping Sweep,normal,0,0.896,0.104,0.0,0.15,false_positive
-2026-05-15T11:29:15.501342,ICMP Ping Sweep,normal,0,0.891,0.109,0.0,0.15,false_positive
-2026-05-15T11:29:15.501352,ICMP Ping Sweep,normal,0,0.901,0.098,0.0,0.15,false_positive
-2026-05-15T11:29:15.501361,SSH Brute Force attempt,normal,1,0.951,0.045,0.003,0.15,attack
-2026-05-15T11:29:15.501369,FTP transfer,false_positive,0,0.215,0.785,0.0,0.15,normal
-2026-05-15T11:29:15.501378,Web traffic HTTPS,normal,0,0.696,0.304,0.0,0.15,normal
-2026-05-15T11:29:15.501386,ICMP Ping Sweep,false_positive,0,0.136,0.863,0.0,0.15,false_positive
-2026-05-15T11:29:15.501394,Web traffic HTTPS,normal,0,0.675,0.325,0.0,0.15,normal
-2026-05-15T11:29:15.501403,DNS query,normal,0,0.617,0.383,0.0,0.15,normal
-2026-05-15T11:29:15.501413,DNS query,normal,0,0.593,0.407,0.0,0.15,normal
-2026-05-15T11:29:15.501421,Web traffic HTTPS,false_positive,0,0.12,0.88,0.0,0.15,normal
-2026-05-15T11:29:15.501431,FTP transfer,false_positive,0,0.214,0.785,0.0,0.15,normal
-2026-05-15T11:29:15.501440,DNS query,normal,0,0.619,0.381,0.0,0.15,normal
-2026-05-15T11:29:15.501449,Web traffic HTTPS,false_positive,0,0.145,0.855,0.0,0.15,normal
-2026-05-15T11:29:15.501458,Web Scan detected,false_positive,0,0.043,0.957,0.0,0.15,false_positive
-2026-05-15T11:29:15.501466,Web traffic HTTPS,normal,0,0.669,0.331,0.0,0.15,normal
-2026-05-15T11:29:15.501475,Web traffic HTTPS,normal,0,0.675,0.325,0.0,0.15,normal
-2026-05-15T11:29:15.501483,FTP transfer,false_positive,0,0.234,0.765,0.0,0.15,normal
-2026-05-15T11:29:15.501492,DNS query,false_positive,0,0.418,0.581,0.0,0.15,normal
-2026-05-15T11:29:15.501500,DNS query,normal,0,0.604,0.396,0.0,0.15,normal
-2026-05-15T11:29:15.501509,FTP transfer,false_positive,0,0.118,0.882,0.0,0.15,normal
-2026-05-15T11:29:15.501519,Web traffic HTTPS,normal,0,0.684,0.316,0.0,0.15,normal
-2026-05-15T11:29:15.501528,DNS query,normal,0,0.555,0.445,0.0,0.15,normal
-2026-05-15T11:29:15.501537,ICMP Ping Sweep,normal,0,0.921,0.079,0.0,0.15,false_positive
-2026-05-15T11:29:15.501545,DNS query,normal,0,0.539,0.461,0.0,0.15,normal
-2026-05-15T11:29:15.501554,DNS query,normal,0,0.619,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.501562,DNS query,normal,0,0.589,0.411,0.0,0.15,normal
-2026-05-15T11:29:15.501571,DNS query,normal,0,0.631,0.369,0.0,0.15,normal
-2026-05-15T11:29:15.501579,ICMP Ping Sweep,normal,0,0.999,0.001,0.0,0.15,false_positive
-2026-05-15T11:29:15.501588,FTP transfer,false_positive,0,0.225,0.775,0.0,0.15,normal
-2026-05-15T11:29:15.501596,FTP transfer,normal,0,0.55,0.45,0.0,0.15,normal
-2026-05-15T11:29:15.501605,FTP transfer,normal,0,0.509,0.49,0.0,0.15,normal
-2026-05-15T11:29:15.501614,FTP transfer,false_positive,0,0.125,0.875,0.0,0.15,normal
-2026-05-15T11:29:15.501622,ICMP Ping Sweep,normal,0,0.917,0.083,0.0,0.15,false_positive
-2026-05-15T11:29:15.501631,ICMP Ping Sweep,normal,0,0.896,0.104,0.0,0.15,false_positive
-2026-05-15T11:29:15.501639,DNS query,normal,0,0.573,0.427,0.0,0.15,normal
-2026-05-15T11:29:15.501660,Web Scan detected,false_positive,0,0.055,0.945,0.0,0.15,false_positive
-2026-05-15T11:29:15.501669,DNS query,normal,0,0.62,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.501678,FTP transfer,false_positive,0,0.23,0.77,0.0,0.15,normal
-2026-05-15T11:29:15.501686,ICMP Ping Sweep,normal,0,0.915,0.085,0.0,0.15,false_positive
-2026-05-15T11:29:15.501695,Web traffic HTTPS,normal,0,0.601,0.399,0.0,0.15,normal
-2026-05-15T11:29:15.501705,Web traffic HTTPS,normal,0,0.652,0.348,0.0,0.15,normal
-2026-05-15T11:29:15.501713,SQL Injection pattern,normal,0,0.993,0.006,0.001,0.15,attack
-2026-05-15T11:29:15.501722,Web Scan detected,false_positive,0,0.055,0.945,0.0,0.15,false_positive
-2026-05-15T11:29:15.501731,Web traffic HTTPS,false_positive,0,0.377,0.623,0.0,0.15,normal
-2026-05-15T11:29:15.501739,ICMP Ping Sweep,normal,0,0.909,0.091,0.0,0.15,false_positive
-2026-05-15T11:29:15.501748,ICMP Ping Sweep,false_positive,0,0.042,0.957,0.0,0.15,false_positive
-2026-05-15T11:29:15.501756,DNS query,normal,0,0.579,0.42,0.0,0.15,normal
-2026-05-15T11:29:15.501765,Web Scan detected,false_positive,0,0.071,0.929,0.0,0.15,false_positive
-2026-05-15T11:29:15.501773,FTP transfer,false_positive,0,0.258,0.742,0.0,0.15,normal
-2026-05-15T11:29:15.501782,FTP transfer,false_positive,0,0.112,0.888,0.0,0.15,normal
-2026-05-15T11:29:15.501793,Web traffic HTTPS,normal,0,0.677,0.323,0.0,0.15,normal
-2026-05-15T11:29:15.501802,ICMP Ping Sweep,normal,0,0.893,0.106,0.0,0.15,false_positive
-2026-05-15T11:29:15.501811,DNS query,normal,0,0.756,0.244,0.0,0.15,normal
-2026-05-15T11:29:15.501820,DNS query,normal,0,0.624,0.376,0.0,0.15,normal
-2026-05-15T11:29:15.501828,DNS query,normal,0,0.576,0.424,0.0,0.15,normal
-2026-05-15T11:29:15.501837,Web Scan detected,false_positive,0,0.185,0.814,0.0,0.15,false_positive
-2026-05-15T11:29:15.501847,FTP transfer,false_positive,0,0.246,0.754,0.0,0.15,normal
-2026-05-15T11:29:15.501856,FTP transfer,false_positive,0,0.252,0.748,0.0,0.15,normal
-2026-05-15T11:29:15.501864,DNS query,normal,0,0.639,0.361,0.0,0.15,normal
-2026-05-15T11:29:15.501872,ICMP Ping Sweep,normal,0,0.913,0.087,0.0,0.15,false_positive
-2026-05-15T11:29:15.501883,FTP transfer,false_positive,0,0.259,0.74,0.0,0.15,normal
-2026-05-15T11:29:15.501891,Web traffic HTTPS,normal,0,0.554,0.446,0.0,0.15,normal
-2026-05-15T11:29:15.501902,ICMP Ping Sweep,normal,0,0.908,0.091,0.0,0.15,false_positive
-2026-05-15T11:29:15.501911,Hydra HTTP Tool detected,normal,0,0.993,0.007,0.001,0.15,attack
-2026-05-15T11:29:15.501921,Hydra HTTP Tool detected,normal,0,0.993,0.006,0.001,0.15,attack
-2026-05-15T11:29:15.501929,ICMP Ping Sweep,normal,0,0.914,0.086,0.0,0.15,false_positive
-2026-05-15T11:29:15.501938,Web traffic HTTPS,normal,0,0.573,0.427,0.0,0.15,normal
-2026-05-15T11:29:15.501947,Web traffic HTTPS,false_positive,0,0.389,0.61,0.0,0.15,normal
-2026-05-15T11:29:15.501956,Web traffic HTTPS,normal,0,0.62,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.501964,FTP transfer,false_positive,0,0.264,0.736,0.0,0.15,normal
-2026-05-15T11:29:15.501974,DNS query,false_positive,0,0.399,0.601,0.0,0.15,normal
-2026-05-15T11:29:15.501982,Web traffic HTTPS,normal,0,0.648,0.352,0.0,0.15,normal
-2026-05-15T11:29:15.501991,SQL Injection pattern,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.502000,Web traffic HTTPS,false_positive,0,0.451,0.548,0.001,0.15,normal
-2026-05-15T11:29:15.502008,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.502017,Web traffic HTTPS,false_positive,0,0.443,0.557,0.0,0.15,normal
-2026-05-15T11:29:15.502025,FTP transfer,false_positive,0,0.262,0.738,0.0,0.15,normal
-2026-05-15T11:29:15.502034,SSH Brute Force attempt,attack,58,0.223,0.476,0.301,0.15,attack
-2026-05-15T11:29:15.502042,Web traffic HTTPS,false_positive,0,0.285,0.715,0.0,0.15,normal
-2026-05-15T11:29:15.502051,Web traffic HTTPS,false_positive,0,0.088,0.912,0.0,0.15,normal
-2026-05-15T11:29:15.502061,DNS query,normal,0,0.609,0.39,0.0,0.15,normal
-2026-05-15T11:29:15.502069,Web traffic HTTPS,normal,0,0.792,0.208,0.0,0.15,normal
-2026-05-15T11:29:15.502078,FTP transfer,false_positive,0,0.259,0.74,0.0,0.15,normal
-2026-05-15T11:29:15.502086,Web Scan detected,false_positive,2,0.259,0.733,0.008,0.15,false_positive
-2026-05-15T11:29:15.502095,FTP transfer,false_positive,0,0.195,0.804,0.0,0.15,normal
-2026-05-15T11:29:15.502103,Web traffic HTTPS,normal,0,0.678,0.322,0.0,0.15,normal
-2026-05-15T11:29:15.502112,Web traffic HTTPS,normal,0,0.7,0.3,0.0,0.15,normal
-2026-05-15T11:29:15.502121,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.502129,FTP transfer,false_positive,0,0.121,0.879,0.0,0.15,normal
-2026-05-15T11:29:15.502138,FTP transfer,normal,0,0.563,0.437,0.0,0.15,normal
-2026-05-15T11:29:15.502148,Web traffic HTTPS,false_positive,0,0.452,0.548,0.0,0.15,normal
-2026-05-15T11:29:15.502156,Web Scan detected,false_positive,0,0.07,0.93,0.0,0.15,false_positive
-2026-05-15T11:29:15.502165,DNS query,normal,0,0.619,0.38,0.0,0.15,normal
-2026-05-15T11:29:15.502173,Hydra HTTP Tool detected,normal,0,0.995,0.005,0.001,0.15,attack
-2026-05-15T11:29:15.502182,ICMP Ping Sweep,false_positive,0,0.335,0.665,0.0,0.15,false_positive
-2026-05-15T11:29:15.502190,Web traffic HTTPS,normal,0,0.589,0.411,0.0,0.15,normal
-2026-05-15T11:29:15.502199,Web traffic HTTPS,normal,0,0.672,0.328,0.0,0.15,normal
-2026-05-15T11:29:15.502207,DNS query,normal,0,0.586,0.414,0.0,0.15,normal
-2026-05-15T11:29:15.502216,Web Scan detected,false_positive,0,0.06,0.94,0.0,0.15,false_positive
-2026-05-15T11:29:15.502225,FTP transfer,false_positive,0,0.228,0.771,0.0,0.15,normal
-2026-05-15T11:29:15.502235,Web Scan detected,false_positive,0,0.104,0.894,0.002,0.15,false_positive
-2026-05-15T11:29:15.502244,DNS query,false_positive,0,0.361,0.639,0.0,0.15,normal
-2026-05-15T11:29:15.502253,FTP transfer,false_positive,0,0.25,0.75,0.0,0.15,normal
-2026-05-15T11:29:15.502261,Web traffic HTTPS,normal,0,0.648,0.351,0.0,0.15,normal
-2026-05-15T11:29:15.502270,Web Scan detected,false_positive,0,0.062,0.938,0.0,0.15,false_positive
-2026-05-15T11:29:15.502278,DNS query,normal,0,0.608,0.392,0.0,0.15,normal
-2026-05-15T11:29:15.502287,Web traffic HTTPS,false_positive,0,0.304,0.696,0.0,0.15,normal
-2026-05-15T11:29:15.502295,FTP transfer,false_positive,0,0.11,0.89,0.0,0.15,normal
-2026-05-15T11:29:15.502304,SQL Injection pattern,normal,0,0.993,0.007,0.001,0.15,attack
-2026-05-15T11:29:15.502312,FTP transfer,false_positive,0,0.283,0.716,0.0,0.15,normal
-2026-05-15T11:29:15.502322,FTP transfer,false_positive,0,0.241,0.759,0.0,0.15,normal
-2026-05-15T11:29:15.502331,Web traffic HTTPS,false_positive,0,0.141,0.859,0.0,0.15,normal
-2026-05-15T11:29:15.502341,Web traffic HTTPS,false_positive,0,0.326,0.673,0.0,0.15,normal
-2026-05-15T11:29:15.502351,Hydra HTTP Tool detected,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.502360,ICMP Ping Sweep,false_positive,0,0.136,0.863,0.0,0.15,false_positive
-2026-05-15T11:29:15.502368,Web Scan detected,false_positive,0,0.059,0.941,0.0,0.15,false_positive
-2026-05-15T11:29:15.502377,Web traffic HTTPS,normal,0,0.598,0.401,0.0,0.15,normal
-2026-05-15T11:29:15.502385,DNS query,normal,0,0.584,0.416,0.0,0.15,normal
-2026-05-15T11:29:15.502394,DNS query,normal,0,0.623,0.377,0.0,0.15,normal
-2026-05-15T11:29:15.502402,DNS query,false_positive,0,0.352,0.648,0.0,0.15,normal
-2026-05-15T11:29:15.502412,Web traffic HTTPS,false_positive,0,0.448,0.552,0.0,0.15,normal
-2026-05-15T11:29:15.502421,FTP transfer,false_positive,0,0.132,0.868,0.0,0.15,normal
-2026-05-15T11:29:15.502429,Hydra HTTP Tool detected,normal,0,0.993,0.006,0.001,0.15,attack
-2026-05-15T11:29:15.502438,FTP transfer,false_positive,0,0.239,0.761,0.0,0.15,normal
-2026-05-15T11:29:15.502446,SQL Injection pattern,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.502455,FTP transfer,false_positive,0,0.212,0.788,0.0,0.15,normal
-2026-05-15T11:29:15.502464,Web traffic HTTPS,false_positive,0,0.35,0.649,0.0,0.15,normal
-2026-05-15T11:29:15.502472,DNS query,normal,0,0.597,0.403,0.0,0.15,normal
-2026-05-15T11:29:15.502482,SSH Brute Force attempt,attack,57,0.205,0.51,0.284,0.15,attack
-2026-05-15T11:29:15.502491,DNS query,normal,0,0.638,0.362,0.0,0.15,normal
-2026-05-15T11:29:15.502501,FTP transfer,false_positive,0,0.237,0.763,0.0,0.15,normal
-2026-05-15T11:29:15.502509,ICMP Ping Sweep,normal,0,0.907,0.092,0.0,0.15,false_positive
-2026-05-15T11:29:15.502518,Web traffic HTTPS,normal,0,0.658,0.341,0.0,0.15,normal
-2026-05-15T11:29:15.502526,SSH Brute Force attempt,false_positive,0,0.0,1.0,0.0,0.15,attack
-2026-05-15T11:29:15.502535,FTP transfer,false_positive,0,0.241,0.759,0.0,0.15,normal
-2026-05-15T11:29:15.502544,Web traffic HTTPS,normal,0,0.787,0.213,0.0,0.15,normal
-2026-05-15T11:29:15.502552,Hydra HTTP Tool detected,attack,57,0.493,0.224,0.284,0.15,attack
-2026-05-15T11:29:15.502561,ICMP Ping Sweep,false_positive,0,0.145,0.854,0.0,0.15,false_positive
-2026-05-15T11:29:15.502569,SQL Injection pattern,attack,53,0.477,0.307,0.216,0.15,attack
-2026-05-15T11:29:15.502578,Web traffic HTTPS,normal,0,0.634,0.366,0.0,0.15,normal
-2026-05-15T11:29:15.502588,Web Scan detected,false_positive,0,0.07,0.93,0.0,0.15,false_positive
-2026-05-15T11:29:15.502596,Hydra HTTP Tool detected,attack,58,0.478,0.234,0.288,0.15,attack
-2026-05-15T11:29:15.502605,SSH Brute Force attempt,attack,62,0.182,0.459,0.359,0.15,attack
-2026-05-15T11:29:15.502614,Web Scan detected,normal,0,1.0,0.0,0.0,0.15,false_positive
-2026-05-15T11:29:15.502623,SSH Brute Force attempt,normal,1,0.94,0.057,0.004,0.15,attack
-2026-05-15T11:29:15.502631,Web Scan detected,false_positive,0,0.066,0.934,0.0,0.15,false_positive
-2026-05-15T11:29:15.502640,FTP transfer,false_positive,0,0.252,0.748,0.0,0.15,normal
-2026-05-15T11:29:15.502648,Web traffic HTTPS,normal,0,0.648,0.352,0.0,0.15,normal
-2026-05-15T11:29:15.502657,SQL Injection pattern,normal,0,0.993,0.007,0.001,0.15,attack
-2026-05-15T11:29:15.502665,Web Scan detected,false_positive,0,0.067,0.932,0.0,0.15,false_positive
-2026-05-15T11:29:15.502675,FTP transfer,false_positive,0,0.247,0.752,0.0,0.15,normal
-2026-05-15T11:29:15.502684,ICMP Ping Sweep,normal,0,0.905,0.095,0.0,0.15,false_positive
-2026-05-15T11:29:15.502692,FTP transfer,false_positive,0,0.004,0.996,0.0,0.15,normal
-2026-05-15T11:29:15.502701,FTP transfer,false_positive,0,0.236,0.764,0.0,0.15,normal
-2026-05-15T11:29:15.502710,ICMP Ping Sweep,false_positive,0,0.379,0.621,0.0,0.15,false_positive
+timestamp,description,prediction,risk_score,proba_normal,proba_fp,proba_attack,attack_threshold_used,true_class,alert_name,severity,severity_score,src_ip,dst_ip,src_port,dst_port,dst_service,freq_per_min,is_high_freq,time_context,src_is_internal,dst_is_internal,is_internal_to_internal,same_subnet,protocol
+2026-05-19T12:13:55.778298,http_alt,false_positive,0,0.069,0.93,0.002,0.15,normal,http_alt,INFO,0,192.168.1.20,10.0.0.1,52018,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.778394,dns,normal,0,0.976,0.024,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.126.139,61636,53,dns,8,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.778590,Hydra HTTP Tool detected,attack,70,0.438,0.072,0.49,0.15,attack,Hydra HTTP Tool detected,HIGH,3,192.168.126.1,192.168.126.139,62971,80,http,164,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.778655,Sensitive File Probe,false_positive,0,0.05,0.949,0.001,0.15,false_positive,Sensitive File Probe,HIGH,3,192.168.1.10,192.168.1.1,59913,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.778703,Script Injection Path,false_positive,0,0.112,0.888,0.0,0.15,false_positive,Script Injection Path,MEDIUM,2,192.168.1.20,192.168.1.1,6078,8080,http_alt,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.778746,https,normal,0,0.534,0.466,0.0,0.15,normal,https,INFO,0,192.168.1.50,10.0.0.1,21289,21,ftp,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.778789,http,false_positive,0,0.068,0.932,0.0,0.15,normal,http,INFO,0,192.168.10.5,10.0.0.1,8342,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.778830,ICMP Ping Sweep,false_positive,4,0.424,0.563,0.013,0.15,false_positive,ICMP Ping Sweep,LOW,1,172.16.0.5,192.168.1.1,33757,0,icmp,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.778854,Web Scan,attack,99,0.001,0.002,0.997,0.15,attack,Web Scan,HIGH,3,192.168.126.1,192.168.126.128,61988,22,ssh,120,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.778901,Script Injection Path,false_positive,0,0.385,0.615,0.0,0.15,false_positive,Script Injection Path,CRITICAL,4,10.0.0.100,192.168.126.128,24220,443,https,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.778943,http_alt,normal,0,1.0,0.0,0.0,0.15,normal,http_alt,INFO,0,10.10.0.5,192.168.126.139,54948,53,dns,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.778986,smtp,normal,0,0.637,0.363,0.0,0.15,normal,smtp,INFO,0,192.168.10.5,192.168.1.1,10151,443,https,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779008,Hydra HTTP Tool,attack,99,0.005,0.002,0.993,0.15,attack,Hydra HTTP Tool,LOW,1,192.168.126.1,192.168.126.139,62025,80,http,70,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779048,Sensitive File Probe,false_positive,0,0.081,0.919,0.0,0.15,false_positive,Sensitive File Probe,INFO,0,10.0.0.100,192.168.126.139,34445,80,http,2,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.779087,ICMP Ping Sweep,false_positive,0,0.001,0.999,0.0,0.15,false_positive,ICMP Ping Sweep,CRITICAL,4,172.16.0.5,192.168.126.139,34271,22,ssh,4,0,business_hours,0,1,0,1,ICMP
+2026-05-19T12:13:55.779126,Web Scan,attack,98,0.003,0.015,0.982,0.15,false_positive,Web Scan,LOW,1,10.0.0.100,192.168.126.128,39043,80,http,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779165,dns,normal,0,0.973,0.026,0.0,0.15,normal,dns,INFO,0,192.168.1.50,192.168.126.139,61701,53,dns,8,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.779205,Web Scan,false_positive,0,0.082,0.918,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.10.5,192.168.126.139,1537,80,http,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779244,ssh,normal,0,0.995,0.005,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.1.1,57962,80,http,16,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.779282,ftp,false_positive,0,0.069,0.93,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,192.168.1.1,38688,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779321,Script Injection Path,false_positive,0,0.053,0.947,0.0,0.15,false_positive,Script Injection Path,LOW,1,192.168.10.5,192.168.126.128,44260,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779358,Traversal Path Attempt,false_positive,0,0.135,0.865,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,192.168.1.10,192.168.126.139,58726,80,http,13,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779397,https,false_positive,0,0.416,0.583,0.0,0.15,normal,https,INFO,0,10.10.0.5,192.168.126.139,26387,443,https,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779435,ssh,normal,0,0.886,0.113,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,192.168.126.139,39210,21,ftp,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779454,Hydra HTTP Tool detected,normal,41,0.582,0.294,0.124,0.15,attack,Hydra HTTP Tool detected,LOW,1,192.168.126.133,192.168.126.139,49106,80,http,10,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779492,Basic Injection Pattern,false_positive,0,0.312,0.688,0.0,0.15,false_positive,Basic Injection Pattern,CRITICAL,4,172.16.0.5,192.168.126.139,51568,80,http,13,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779512,Web Scan,false_positive,0,0.016,0.984,0.0,0.15,attack,Web Scan,LOW,1,192.168.126.133,192.168.126.128,37910,22,ssh,20,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779550,icmp,normal,0,0.998,0.001,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.1.1,14952,443,https,4,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.779591,ICMP Ping Sweep,false_positive,1,0.197,0.799,0.004,0.15,false_positive,ICMP Ping Sweep,LOW,1,192.168.1.10,192.168.126.128,36462,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779630,https,attack,98,0.017,0.005,0.978,0.15,normal,https,INFO,0,192.168.10.5,192.168.1.1,51190,80,http,2,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779669,http_alt,false_positive,0,0.139,0.861,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,192.168.126.139,31274,8080,http_alt,22,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779707,Web Scan,false_positive,0,0.254,0.745,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.1.10,192.168.1.1,49937,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779745,dns,normal,0,0.999,0.001,0.0,0.15,normal,dns,INFO,0,10.0.0.15,10.0.0.1,11934,25,smtp,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.779782,dns,normal,0,1.0,0.0,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.1.1,38794,22,ssh,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779821,http,false_positive,0,0.318,0.681,0.0,0.15,normal,http,INFO,0,10.0.0.15,192.168.1.1,8379,21,ftp,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779843,SSH Scan,attack,81,0.275,0.034,0.691,0.15,attack,SSH Scan,HIGH,3,192.168.126.1,192.168.126.139,48297,80,http,183,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779882,https,false_positive,0,0.426,0.572,0.002,0.15,normal,https,INFO,0,10.0.0.15,10.0.0.1,58712,22,ssh,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779921,ICMP Ping Sweep,false_positive,0,0.058,0.941,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,10.0.0.100,192.168.126.139,53570,80,http,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.779941,Web Scan,normal,0,1.0,0.0,0.0,0.15,attack,Web Scan,HIGH,3,192.168.126.1,192.168.126.139,63610,80,http,50,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.779980,smtp,normal,0,0.835,0.165,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,192.168.1.1,53147,25,smtp,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780018,Basic Injection Pattern,false_positive,0,0.459,0.541,0.0,0.15,false_positive,Basic Injection Pattern,HIGH,3,192.168.10.5,192.168.126.128,35748,8080,http_alt,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780057,ftp,normal,0,0.996,0.004,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,10.0.0.1,15176,8080,http_alt,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.780095,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.1.1,62371,21,ftp,2,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.780133,Basic Injection Pattern,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Basic Injection Pattern,CRITICAL,4,192.168.1.20,192.168.126.139,23009,80,http,16,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.780172,icmp,false_positive,0,0.252,0.748,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.1.1,18240,8080,http_alt,3,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.780209,icmp,false_positive,0,0.42,0.58,0.0,0.15,normal,icmp,INFO,0,192.168.1.50,192.168.1.1,31492,443,https,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780247,Basic Injection Pattern,false_positive,0,0.063,0.937,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,172.16.0.5,192.168.1.1,15492,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780285,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,192.168.1.1,7442,443,https,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.780325,Sensitive File Probe,false_positive,0,0.064,0.936,0.0,0.15,false_positive,Sensitive File Probe,LOW,1,172.16.0.5,192.168.126.139,10252,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780364,http_alt,normal,0,0.647,0.353,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,192.168.126.139,29697,443,https,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780402,Sensitive File Probe,normal,0,0.792,0.208,0.0,0.15,false_positive,Sensitive File Probe,INFO,0,192.168.10.5,192.168.126.128,42551,443,https,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780440,Sensitive File Probe,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Sensitive File Probe,CRITICAL,4,192.168.1.20,192.168.126.128,3373,8080,http_alt,8,0,business_hours,0,1,0,0,ICMP
+2026-05-19T12:13:55.780461,Web Scan,attack,81,0.286,0.031,0.684,0.15,attack,Web Scan,HIGH,3,192.168.126.1,192.168.126.128,37179,80,http,145,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.780500,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,10.10.0.5,10.0.0.1,14570,53,dns,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.780540,ssh,normal,0,0.991,0.009,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,192.168.1.1,62799,21,ftp,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.780578,Basic Injection Pattern,normal,0,0.543,0.457,0.0,0.15,false_positive,Basic Injection Pattern,HIGH,3,192.168.1.10,192.168.1.1,24124,443,https,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780619,Basic Injection Pattern,false_positive,0,0.067,0.933,0.0,0.15,false_positive,Basic Injection Pattern,CRITICAL,4,192.168.1.10,192.168.126.128,49805,80,http,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780657,ICMP Ping Sweep,false_positive,0,0.08,0.92,0.0,0.15,false_positive,ICMP Ping Sweep,HIGH,3,172.16.0.5,192.168.126.128,25745,80,http,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780698,http_alt,normal,0,0.955,0.044,0.0,0.15,normal,http_alt,INFO,0,192.168.10.5,10.0.0.1,10766,53,dns,3,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.780737,http,normal,0,1.0,0.0,0.0,0.15,normal,http,INFO,0,192.168.10.5,192.168.126.139,55372,25,smtp,6,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780776,https,normal,0,1.0,0.0,0.0,0.15,normal,https,INFO,0,10.10.0.5,10.0.0.1,23032,8080,http_alt,6,0,after_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.780815,HTTP Login Bruteforce,false_positive,0,0.078,0.922,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,172.16.0.5,192.168.1.1,2094,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.780928,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,192.168.1.1,40564,22,ssh,3,0,night,1,1,1,0,ICMP
+2026-05-19T12:13:55.780964,SSH Brute Force,attack,81,0.23,0.088,0.681,0.15,attack,SSH Brute Force,HIGH,3,192.168.126.133,192.168.126.128,33172,22,ssh,176,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781004,https,normal,0,0.983,0.017,0.0,0.15,normal,https,INFO,0,192.168.1.20,10.0.0.1,30626,8080,http_alt,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.781044,ftp,normal,0,0.838,0.162,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,10.0.0.1,53610,53,dns,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781081,http_alt,normal,0,0.996,0.004,0.0,0.15,normal,http_alt,INFO,0,192.168.10.5,192.168.1.1,35399,8080,http_alt,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.781119,dns,normal,0,0.508,0.491,0.001,0.15,normal,dns,INFO,0,192.168.1.20,10.0.0.1,3091,22,ssh,22,1,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781139,Web Scan,attack,57,0.713,0.016,0.272,0.15,attack,Web Scan,HIGH,3,192.168.126.133,192.168.126.128,36185,80,http,195,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781157,SQL Injection pattern,attack,99,0.0,0.0,1.0,0.15,attack,SQL Injection pattern,LOW,1,192.168.126.1,192.168.126.139,58311,80,http,147,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781195,icmp,normal,0,0.999,0.001,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,10.0.0.1,42511,8080,http_alt,11,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.781233,icmp,false_positive,0,0.061,0.939,0.0,0.15,normal,icmp,INFO,0,192.168.1.50,192.168.1.1,16469,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781272,Traversal Path Attempt,false_positive,0,0.061,0.939,0.0,0.15,false_positive,Traversal Path Attempt,MEDIUM,2,192.168.1.10,192.168.126.128,21595,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781291,SQL Injection pattern,attack,68,0.465,0.064,0.471,0.15,attack,SQL Injection pattern,LOW,1,192.168.126.1,192.168.126.128,64611,80,http,79,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781329,HTTP Login Bruteforce,false_positive,0,0.076,0.924,0.0,0.15,false_positive,HTTP Login Bruteforce,HIGH,3,10.0.0.100,192.168.1.1,48828,80,http,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781367,dns,normal,0,0.928,0.072,0.0,0.15,normal,dns,INFO,0,192.168.1.50,192.168.1.1,31592,53,dns,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781405,ftp,false_positive,0,0.32,0.679,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.126.139,24443,443,https,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781445,ICMP Ping Sweep,false_positive,0,0.48,0.519,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,192.168.1.10,192.168.126.139,38384,22,ssh,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781482,icmp,false_positive,0,0.031,0.969,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,192.168.1.1,11615,80,http,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781519,HTTP Login Bruteforce,false_positive,0,0.206,0.793,0.001,0.15,false_positive,HTTP Login Bruteforce,CRITICAL,4,172.16.0.5,192.168.126.128,64380,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781556,http_alt,normal,0,0.93,0.07,0.0,0.15,normal,http_alt,INFO,0,10.10.0.5,192.168.126.139,16427,25,smtp,11,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781577,SQL Injection pattern,attack,81,0.282,0.03,0.688,0.15,attack,SQL Injection pattern,LOW,1,192.168.126.1,192.168.126.128,48676,80,http,191,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781618,http_alt,normal,0,1.0,0.0,0.0,0.15,normal,http_alt,INFO,0,192.168.10.5,192.168.126.139,13559,53,dns,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.781657,Sensitive File Probe,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Sensitive File Probe,HIGH,3,192.168.1.20,192.168.126.139,39748,80,http,4,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.781695,icmp,false_positive,0,0.387,0.613,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.126.139,7422,22,ssh,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.781732,smtp,normal,0,0.879,0.121,0.0,0.15,normal,smtp,INFO,0,192.168.1.50,192.168.1.1,7192,53,dns,16,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781768,ssh,normal,0,1.0,0.0,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,192.168.126.139,30090,8080,http_alt,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.781804,smtp,normal,0,0.765,0.235,0.0,0.15,normal,smtp,INFO,0,10.10.0.5,192.168.1.1,30248,53,dns,4,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781852,Hydra HTTP Tool,attack,99,0.0,0.0,1.0,0.15,attack,Hydra HTTP Tool,HIGH,3,192.168.126.1,192.168.126.128,54386,80,http,190,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781894,Script Injection Path,false_positive,0,0.108,0.891,0.002,0.15,false_positive,Script Injection Path,LOW,1,10.0.0.100,192.168.1.1,44782,80,http,2,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.781933,Sensitive File Probe,false_positive,0,0.223,0.777,0.001,0.15,false_positive,Sensitive File Probe,HIGH,3,172.16.0.5,192.168.1.1,1816,80,http,8,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.781970,https,normal,0,1.0,0.0,0.0,0.15,normal,https,INFO,0,192.168.10.5,192.168.1.1,40608,25,smtp,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782007,smtp,normal,0,0.999,0.001,0.0,0.15,normal,smtp,INFO,0,192.168.1.50,192.168.1.1,63250,25,smtp,22,1,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782045,ftp,normal,0,0.913,0.087,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,10.0.0.1,53619,53,dns,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782081,icmp,false_positive,0,0.187,0.813,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,10.0.0.1,59330,22,ssh,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782118,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,192.168.1.1,50441,21,ftp,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782155,ssh,normal,0,0.998,0.002,0.0,0.15,normal,ssh,INFO,0,192.168.10.5,192.168.1.1,13236,25,smtp,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782191,icmp,false_positive,0,0.382,0.617,0.001,0.15,normal,icmp,INFO,0,10.0.0.15,10.0.0.1,35956,21,ftp,2,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.782211,Hydra HTTP Tool detected,attack,60,0.663,0.012,0.325,0.15,attack,Hydra HTTP Tool detected,LOW,1,192.168.126.133,192.168.126.139,48742,80,http,167,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.782248,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.126.139,37427,22,ssh,6,0,night,1,1,1,0,ICMP
+2026-05-19T12:13:55.782284,http_alt,normal,0,0.999,0.001,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,192.168.126.139,16741,22,ssh,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782320,http_alt,normal,0,0.998,0.002,0.0,0.15,normal,http_alt,INFO,0,192.168.1.50,192.168.1.1,1601,22,ssh,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782358,https,normal,0,0.998,0.002,0.0,0.15,normal,https,INFO,0,192.168.1.50,192.168.1.1,51888,443,https,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782394,Traversal Path Attempt,false_positive,0,0.062,0.937,0.0,0.15,false_positive,Traversal Path Attempt,HIGH,3,172.16.0.5,192.168.126.139,5657,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782433,ICMP Ping Sweep,false_positive,0,0.0,1.0,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,192.168.1.20,192.168.126.139,12118,80,http,10,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.782470,Sensitive File Probe,false_positive,0,0.067,0.933,0.0,0.15,false_positive,Sensitive File Probe,LOW,1,192.168.1.10,192.168.126.128,17252,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782489,Traversal Path Attempt,attack,66,0.437,0.132,0.431,0.15,attack,Traversal Path Attempt,HIGH,3,192.168.126.1,192.168.126.139,32444,22,ssh,133,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.782526,Script Injection Path,false_positive,0,0.229,0.771,0.0,0.15,false_positive,Script Injection Path,HIGH,3,172.16.0.5,192.168.1.1,42350,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782564,http,normal,0,1.0,0.0,0.0,0.15,normal,http,INFO,0,192.168.1.20,10.0.0.1,14207,443,https,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782604,smtp,false_positive,0,0.398,0.602,0.0,0.15,normal,smtp,INFO,0,192.168.1.20,192.168.126.139,13050,25,smtp,4,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.782641,icmp,normal,0,1.0,0.0,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,192.168.126.139,1999,8080,http_alt,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782678,ftp,normal,0,1.0,0.0,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,10.0.0.1,36997,80,http,6,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782698,Hydra HTTP Tool detected,attack,82,0.259,0.03,0.711,0.15,attack,Hydra HTTP Tool detected,LOW,1,192.168.126.1,192.168.126.128,37802,80,http,139,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.782736,icmp,normal,0,0.648,0.352,0.0,0.15,normal,icmp,INFO,0,192.168.1.20,192.168.126.139,49117,443,https,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782755,SSH Brute Force,attack,82,0.262,0.042,0.695,0.15,attack,SSH Brute Force,LOW,1,192.168.126.133,192.168.126.128,60917,80,http,178,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.782794,Traversal Path Attempt,false_positive,0,0.195,0.805,0.0,0.15,false_positive,Traversal Path Attempt,HIGH,3,192.168.1.10,192.168.126.139,9443,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782831,ssh,normal,0,0.998,0.002,0.0,0.15,normal,ssh,INFO,0,192.168.1.20,192.168.126.139,8962,21,ftp,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782867,ssh,normal,0,0.997,0.003,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,10.0.0.1,16782,22,ssh,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.782886,SQL Injection pattern,attack,99,0.0,0.0,1.0,0.15,attack,SQL Injection pattern,LOW,1,192.168.126.1,192.168.126.139,42011,80,http,72,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.782930,HTTP Login Bruteforce,normal,0,0.897,0.102,0.0,0.15,false_positive,HTTP Login Bruteforce,CRITICAL,4,192.168.1.10,192.168.126.139,61340,0,icmp,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.782970,icmp,false_positive,0,0.431,0.568,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,192.168.1.1,46763,22,ssh,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783012,smtp,false_positive,0,0.448,0.552,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,192.168.126.139,26851,443,https,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783052,icmp,normal,0,0.87,0.13,0.0,0.15,normal,icmp,INFO,0,192.168.1.20,10.0.0.1,62755,53,dns,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783104,http_alt,normal,0,0.508,0.492,0.0,0.15,normal,http_alt,INFO,0,10.0.0.15,10.0.0.1,62590,443,https,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783144,ssh,normal,0,0.997,0.003,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,10.0.0.1,11448,25,smtp,16,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.783186,https,normal,0,0.937,0.062,0.0,0.15,normal,https,INFO,0,192.168.10.5,192.168.1.1,30845,53,dns,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783226,dns,normal,0,0.983,0.017,0.0,0.15,normal,dns,INFO,0,10.10.0.5,192.168.1.1,34495,53,dns,22,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783266,HTTP Login Bruteforce,false_positive,0,0.226,0.774,0.0,0.15,false_positive,HTTP Login Bruteforce,INFO,0,10.0.0.100,192.168.126.128,11037,8080,http_alt,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783304,http_alt,normal,0,0.999,0.001,0.0,0.15,normal,http_alt,INFO,0,192.168.10.5,10.0.0.1,18975,22,ssh,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.783349,ssh,false_positive,0,0.135,0.863,0.002,0.15,normal,ssh,INFO,0,192.168.10.5,192.168.126.139,45717,80,http,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783371,Web Scan,attack,85,0.207,0.033,0.76,0.15,attack,Web Scan,LOW,1,192.168.126.133,192.168.126.139,50529,80,http,168,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783413,Script Injection Path,false_positive,0,0.048,0.952,0.0,0.15,false_positive,Script Injection Path,HIGH,3,192.168.1.20,192.168.126.128,52831,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783451,http_alt,normal,0,1.0,0.0,0.0,0.15,normal,http_alt,INFO,0,192.168.1.50,192.168.126.139,5213,53,dns,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.783471,SSH Brute Force,attack,78,0.322,0.037,0.642,0.15,attack,SSH Brute Force,LOW,1,192.168.126.1,192.168.126.128,57119,80,http,182,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783508,Basic Injection Pattern,false_positive,0,0.065,0.935,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,10.0.0.100,192.168.126.128,58330,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783547,ICMP Ping Sweep,false_positive,0,0.0,1.0,0.0,0.15,false_positive,ICMP Ping Sweep,CRITICAL,4,10.0.0.100,192.168.126.139,40629,443,https,16,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.783584,smtp,false_positive,0,0.41,0.589,0.0,0.15,normal,smtp,INFO,0,192.168.1.20,10.0.0.1,3970,443,https,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783620,Basic Injection Pattern,false_positive,0,0.281,0.718,0.001,0.15,false_positive,Basic Injection Pattern,INFO,0,10.0.0.100,192.168.1.1,1403,80,http,5,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783641,Web Scan,attack,80,0.292,0.041,0.667,0.15,attack,Web Scan,LOW,1,192.168.126.133,192.168.126.139,49930,80,http,188,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783678,dns,false_positive,0,0.045,0.954,0.001,0.15,normal,dns,INFO,0,192.168.1.50,192.168.126.139,60124,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783698,Sensitive File Probe,attack,75,0.387,0.035,0.577,0.15,attack,Sensitive File Probe,HIGH,3,192.168.126.133,192.168.126.139,54991,80,http,174,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783734,Basic Injection Pattern,false_positive,0,0.07,0.929,0.001,0.15,false_positive,Basic Injection Pattern,LOW,1,192.168.1.20,192.168.126.139,60245,80,http,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.783771,icmp,normal,0,0.581,0.419,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,10.0.0.1,52223,443,https,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783807,http,normal,0,1.0,0.0,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.1.1,57270,8080,http_alt,30,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.783913,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,HIGH,3,10.0.0.100,192.168.126.128,23781,80,http,8,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.783955,HTTP Login Bruteforce,false_positive,0,0.0,1.0,0.0,0.15,false_positive,HTTP Login Bruteforce,CRITICAL,4,172.16.0.5,192.168.1.1,31102,80,http,2,0,business_hours,0,1,0,1,TCP
+2026-05-19T12:13:55.783994,dns,normal,0,0.999,0.001,0.0,0.15,normal,dns,INFO,0,10.0.0.15,10.0.0.1,11747,443,https,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.784032,Sensitive File Probe,normal,6,0.531,0.45,0.019,0.15,false_positive,Sensitive File Probe,LOW,1,192.168.10.5,192.168.126.128,57757,443,https,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.784069,ICMP Ping Sweep,false_positive,0,0.064,0.936,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,192.168.10.5,192.168.126.128,10222,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784090,SSH Scan,attack,84,0.239,0.03,0.731,0.15,attack,SSH Scan,LOW,1,192.168.126.133,192.168.126.139,36557,80,http,192,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.784130,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,192.168.10.5,10.0.0.1,61497,21,ftp,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.784168,https,normal,0,0.694,0.306,0.0,0.15,normal,https,INFO,0,10.0.0.15,192.168.1.1,45807,443,https,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784205,dns,normal,0,0.938,0.062,0.0,0.15,normal,dns,INFO,0,10.10.0.5,192.168.126.139,30129,53,dns,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784223,Web Scan,normal,0,1.0,0.0,0.0,0.15,attack,Web Scan,HIGH,3,192.168.126.1,192.168.126.139,55356,80,http,2,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.784259,ftp,normal,0,1.0,0.0,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,10.0.0.1,50306,443,https,2,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784298,Web Scan,false_positive,0,0.348,0.652,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.1.20,192.168.1.1,31089,0,icmp,2,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.784336,ssh,false_positive,0,0.188,0.812,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.1.1,23274,8080,http_alt,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784374,ICMP Ping Sweep,false_positive,0,0.066,0.934,0.0,0.15,false_positive,ICMP Ping Sweep,HIGH,3,192.168.1.10,192.168.1.1,2925,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784412,ssh,normal,0,0.892,0.108,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,10.0.0.1,10986,443,https,2,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784449,icmp,normal,0,0.999,0.001,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,192.168.1.1,7439,443,https,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.784486,dns,false_positive,0,0.43,0.569,0.0,0.15,normal,dns,INFO,0,10.10.0.5,192.168.126.139,19428,443,https,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784521,HTTP Login Bruteforce,normal,0,0.631,0.368,0.0,0.15,false_positive,HTTP Login Bruteforce,INFO,0,192.168.10.5,192.168.1.1,47585,443,https,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784558,https,normal,0,0.92,0.08,0.0,0.15,normal,https,INFO,0,192.168.1.50,192.168.1.1,24418,443,https,22,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.784597,dns,normal,0,1.0,0.0,0.0,0.15,normal,dns,INFO,0,192.168.1.50,192.168.126.139,2226,53,dns,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.784636,dns,normal,0,1.0,0.0,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.1.1,33102,25,smtp,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784673,smtp,normal,0,0.999,0.001,0.0,0.15,normal,smtp,INFO,0,192.168.10.5,192.168.126.139,38482,8080,http_alt,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.784711,Traversal Path Attempt,false_positive,0,0.06,0.939,0.0,0.15,false_positive,Traversal Path Attempt,CRITICAL,4,172.16.0.5,192.168.126.139,15656,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784748,https,normal,0,1.0,0.0,0.0,0.15,normal,https,INFO,0,10.0.0.15,10.0.0.1,61403,8080,http_alt,3,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784785,dns,normal,0,0.78,0.219,0.0,0.15,normal,dns,INFO,0,192.168.1.20,10.0.0.1,20621,8080,http_alt,2,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784804,Sensitive File Probe,attack,62,0.63,0.013,0.357,0.15,attack,Sensitive File Probe,HIGH,3,192.168.126.133,192.168.126.139,37913,80,http,149,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.784842,icmp,normal,0,0.686,0.313,0.0,0.15,normal,icmp,INFO,0,192.168.1.20,10.0.0.1,62028,21,ftp,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784894,ssh,normal,0,0.934,0.066,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,10.0.0.1,9541,53,dns,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784942,Basic Injection Pattern,false_positive,0,0.117,0.883,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,172.16.0.5,192.168.126.139,2308,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.784979,Script Injection Path,false_positive,0,0.07,0.93,0.0,0.15,false_positive,Script Injection Path,LOW,1,192.168.1.10,192.168.1.1,19171,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785017,ICMP Ping Sweep,false_positive,0,0.147,0.853,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,10.0.0.100,192.168.126.128,35074,80,http,6,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.785053,ftp,normal,0,0.698,0.302,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,10.0.0.1,33158,443,https,16,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785089,ICMP Ping Sweep,false_positive,0,0.0,1.0,0.0,0.15,false_positive,ICMP Ping Sweep,HIGH,3,172.16.0.5,192.168.126.128,22193,8080,http_alt,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.785124,ICMP Ping Sweep,false_positive,0,0.0,1.0,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,192.168.1.20,192.168.126.139,10691,22,ssh,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.785159,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,INFO,0,192.168.1.20,192.168.126.139,39468,80,http,10,0,business_hours,0,1,0,1,TCP
+2026-05-19T12:13:55.785195,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.126.139,4865,21,ftp,3,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.785231,Traversal Path Attempt,normal,0,0.525,0.475,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,172.16.0.5,192.168.126.139,58317,0,icmp,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785250,SSH Brute Force,attack,99,0.0,0.0,1.0,0.15,attack,SSH Brute Force,LOW,1,192.168.126.1,192.168.126.139,41727,22,ssh,134,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785287,dns,normal,0,0.954,0.046,0.0,0.15,normal,dns,INFO,0,10.0.0.15,192.168.1.1,21128,8080,http_alt,11,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785327,ftp,normal,0,0.581,0.419,0.001,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.126.139,62280,80,http,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785362,Sensitive File Probe,normal,0,0.678,0.322,0.0,0.15,false_positive,Sensitive File Probe,LOW,1,192.168.1.20,192.168.126.139,20785,443,https,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785398,ICMP Ping Sweep,false_positive,0,0.007,0.993,0.0,0.15,false_positive,ICMP Ping Sweep,CRITICAL,4,192.168.10.5,192.168.126.139,23704,22,ssh,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785434,ssh,false_positive,0,0.205,0.795,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.126.139,41694,22,ssh,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785470,ftp,normal,0,1.0,0.0,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,10.0.0.1,42632,53,dns,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.785490,SQL Injection pattern,attack,99,0.0,0.0,1.0,0.15,attack,SQL Injection pattern,HIGH,3,192.168.126.133,192.168.126.128,37012,80,http,107,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785526,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,CRITICAL,4,10.0.0.100,192.168.126.139,46220,22,ssh,4,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.785562,smtp,false_positive,0,0.374,0.626,0.0,0.15,normal,smtp,INFO,0,192.168.1.50,10.0.0.1,12295,25,smtp,2,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785603,ssh,false_positive,0,0.328,0.671,0.001,0.15,normal,ssh,INFO,0,10.0.0.15,10.0.0.1,40225,443,https,8,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.785640,Sensitive File Probe,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Sensitive File Probe,HIGH,3,10.0.0.100,192.168.126.139,46822,80,http,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.785664,Sensitive File Probe,attack,68,0.479,0.055,0.466,0.15,attack,Sensitive File Probe,HIGH,3,192.168.126.1,192.168.126.139,63018,80,http,177,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785700,ssh,normal,0,0.998,0.002,0.0,0.15,normal,ssh,INFO,0,192.168.10.5,10.0.0.1,59056,443,https,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.785719,SSH Scan,attack,99,0.0,0.0,1.0,0.15,attack,SSH Scan,LOW,1,192.168.126.133,192.168.126.128,56173,80,http,155,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785736,SSH Scan,attack,99,0.0,0.0,1.0,0.15,attack,SSH Scan,LOW,1,192.168.126.1,192.168.126.128,54372,80,http,147,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785771,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,192.168.1.1,51338,25,smtp,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.785807,Web Scan,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Web Scan,HIGH,3,10.0.0.100,192.168.126.139,14467,80,http,3,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.785843,https,false_positive,0,0.008,0.992,0.0,0.15,normal,https,INFO,0,192.168.1.50,10.0.0.1,29395,22,ssh,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785879,https,normal,0,0.502,0.497,0.0,0.15,normal,https,INFO,0,10.10.0.5,192.168.126.139,41946,8080,http_alt,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785917,Script Injection Path,false_positive,0,0.066,0.932,0.002,0.15,false_positive,Script Injection Path,MEDIUM,2,192.168.10.5,192.168.126.139,55114,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.785937,Web Scan,attack,69,0.437,0.074,0.49,0.15,attack,Web Scan,HIGH,3,192.168.126.133,192.168.126.128,63783,80,http,90,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.785973,ssh,normal,0,0.703,0.296,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.1.1,3954,21,ftp,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786010,dns,normal,0,0.992,0.008,0.0,0.15,normal,dns,INFO,0,10.0.0.15,192.168.126.139,8254,8080,http_alt,8,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.786045,smtp,normal,0,0.658,0.342,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,10.0.0.1,45112,8080,http_alt,3,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786080,ftp,normal,0,0.982,0.018,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,192.168.126.139,22785,22,ssh,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.786098,SSH Brute Force,normal,0,0.673,0.325,0.002,0.15,attack,SSH Brute Force,LOW,1,192.168.126.133,192.168.126.128,47614,80,http,1,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786133,https,false_positive,0,0.237,0.763,0.0,0.15,normal,https,INFO,0,10.10.0.5,10.0.0.1,44213,8080,http_alt,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786169,dns,false_positive,0,0.092,0.908,0.0,0.15,normal,dns,INFO,0,192.168.1.50,192.168.126.139,36479,80,http,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786189,Web Scan,attack,69,0.443,0.073,0.485,0.15,attack,Web Scan,LOW,1,192.168.126.1,192.168.126.128,63754,80,http,93,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786224,dns,false_positive,0,0.309,0.691,0.0,0.15,normal,dns,INFO,0,10.0.0.15,10.0.0.1,8117,53,dns,2,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786260,dns,false_positive,0,0.067,0.933,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.1.1,46297,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786279,Web Scan,attack,76,0.268,0.137,0.594,0.15,attack,Web Scan,CRITICAL,4,192.168.126.133,192.168.126.139,62417,22,ssh,139,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786314,smtp,normal,0,0.999,0.001,0.0,0.15,normal,smtp,INFO,0,192.168.1.20,192.168.1.1,7802,53,dns,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.786333,SSH Brute Force,attack,78,0.32,0.04,0.64,0.15,attack,SSH Brute Force,HIGH,3,192.168.126.133,192.168.126.128,57573,80,http,163,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786369,Script Injection Path,false_positive,0,0.02,0.98,0.0,0.15,false_positive,Script Injection Path,INFO,0,192.168.1.20,192.168.1.1,46753,22,ssh,10,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786406,smtp,normal,0,0.891,0.109,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,192.168.1.1,34180,8080,http_alt,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786442,dns,false_positive,0,0.214,0.786,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.126.139,17466,8080,http_alt,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786480,dns,false_positive,0,0.309,0.69,0.0,0.15,normal,dns,INFO,0,10.10.0.5,10.0.0.1,63046,22,ssh,1,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786497,Hydra HTTP Tool detected,false_positive,0,0.078,0.92,0.002,0.15,attack,Hydra HTTP Tool detected,LOW,1,192.168.126.1,192.168.126.128,36241,80,http,8,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786532,ssh,normal,0,0.996,0.004,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,10.0.0.1,22632,53,dns,6,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.786567,https,normal,0,0.999,0.001,0.0,0.15,normal,https,INFO,0,192.168.10.5,192.168.126.139,51743,443,https,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.786604,http,normal,0,0.982,0.018,0.0,0.15,normal,http,INFO,0,192.168.1.50,192.168.126.139,32038,22,ssh,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.786640,ssh,normal,0,0.999,0.001,0.0,0.15,normal,ssh,INFO,0,192.168.10.5,192.168.1.1,33643,80,http,3,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.786659,Hydra HTTP Tool,attack,80,0.284,0.04,0.676,0.15,attack,Hydra HTTP Tool,HIGH,3,192.168.126.133,192.168.126.139,60435,80,http,129,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786694,Web Scan,normal,0,0.563,0.437,0.0,0.15,false_positive,Web Scan,HIGH,3,10.0.0.100,192.168.126.128,46486,443,https,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786712,Web Scan,false_positive,0,0.168,0.832,0.0,0.15,attack,Web Scan,LOW,1,192.168.126.1,192.168.126.139,30302,80,http,5,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786747,Script Injection Path,normal,0,0.617,0.383,0.0,0.15,false_positive,Script Injection Path,MEDIUM,2,192.168.10.5,192.168.1.1,18790,8080,http_alt,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786766,SSH Scan,normal,0,1.0,0.0,0.0,0.15,attack,SSH Scan,HIGH,3,192.168.126.133,192.168.126.128,60766,80,http,44,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786783,Web Scan,attack,80,0.28,0.044,0.677,0.15,attack,Web Scan,HIGH,3,192.168.126.133,192.168.126.128,52270,80,http,81,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786819,http_alt,false_positive,0,0.188,0.811,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,10.0.0.1,20573,22,ssh,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786856,HTTP Login Bruteforce,false_positive,0,0.05,0.95,0.0,0.15,false_positive,HTTP Login Bruteforce,HIGH,3,192.168.10.5,192.168.1.1,35368,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786875,Hydra HTTP Tool detected,attack,99,0.0,0.0,1.0,0.15,attack,Hydra HTTP Tool detected,HIGH,3,192.168.126.1,192.168.126.128,47501,80,http,166,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.786917,ftp,false_positive,0,0.038,0.962,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.126.139,3016,21,ftp,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786955,Script Injection Path,false_positive,0,0.052,0.947,0.001,0.15,false_positive,Script Injection Path,LOW,1,192.168.10.5,192.168.126.139,35368,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.786972,Web Scan,false_positive,1,0.203,0.794,0.003,0.15,attack,Web Scan,HIGH,3,192.168.126.133,192.168.126.128,43133,80,http,5,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.787008,Web Scan,false_positive,0,0.447,0.553,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.10.5,192.168.126.128,62560,0,icmp,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787044,ssh,normal,0,0.531,0.469,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,192.168.1.1,17558,443,https,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787079,smtp,false_positive,0,0.04,0.96,0.0,0.15,normal,smtp,INFO,0,10.10.0.5,10.0.0.1,1091,8080,http_alt,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787114,https,false_positive,0,0.446,0.554,0.0,0.15,normal,https,INFO,0,10.10.0.5,10.0.0.1,42075,21,ftp,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787149,https,normal,0,0.999,0.001,0.0,0.15,normal,https,INFO,0,10.0.0.15,192.168.126.139,50472,21,ftp,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787167,Web Scan,attack,78,0.343,0.031,0.627,0.15,attack,Web Scan,CRITICAL,4,192.168.126.1,192.168.126.128,47049,80,http,180,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.787203,http,normal,0,0.989,0.011,0.0,0.15,normal,http,INFO,0,192.168.1.50,10.0.0.1,8715,21,ftp,22,1,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787238,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.126.139,6597,443,https,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787273,http_alt,normal,0,0.998,0.002,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,10.0.0.1,45164,443,https,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787309,Sensitive File Probe,false_positive,0,0.06,0.94,0.0,0.15,false_positive,Sensitive File Probe,HIGH,3,192.168.10.5,192.168.126.139,29898,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787344,ssh,false_positive,0,0.23,0.77,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,192.168.126.139,33196,8080,http_alt,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787380,smtp,normal,0,0.999,0.001,0.0,0.15,normal,smtp,INFO,0,192.168.1.50,192.168.1.1,42852,443,https,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787414,ftp,normal,0,0.942,0.058,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,10.0.0.1,8470,53,dns,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787449,http_alt,normal,0,0.999,0.001,0.0,0.15,normal,http_alt,INFO,0,192.168.1.50,192.168.126.139,7768,53,dns,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787484,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,192.168.10.5,192.168.1.1,9703,22,ssh,6,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787503,SSH Scan,attack,82,0.262,0.028,0.709,0.15,attack,SSH Scan,HIGH,3,192.168.126.1,192.168.126.139,37645,80,http,101,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.787538,http,normal,0,0.643,0.356,0.0,0.15,normal,http,INFO,0,192.168.1.20,10.0.0.1,14588,80,http,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787574,ssh,false_positive,0,0.109,0.889,0.002,0.15,normal,ssh,INFO,0,192.168.1.50,10.0.0.1,60797,80,http,3,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.787609,icmp,normal,0,0.997,0.003,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.126.139,61394,443,https,6,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.787643,ssh,normal,0,0.998,0.002,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.126.139,61232,80,http,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787685,dns,false_positive,0,0.069,0.931,0.0,0.15,normal,dns,INFO,0,10.10.0.5,192.168.1.1,20001,80,http,8,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.787722,icmp,normal,0,0.992,0.008,0.0,0.15,normal,icmp,INFO,0,192.168.1.20,192.168.126.139,11154,80,http,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787758,http,normal,0,0.842,0.158,0.0,0.15,normal,http,INFO,0,10.10.0.5,10.0.0.1,13655,53,dns,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787793,ftp,false_positive,0,0.056,0.944,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,192.168.1.1,39656,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787828,ftp,false_positive,0,0.069,0.931,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.126.139,26228,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.787863,Script Injection Path,false_positive,0,0.24,0.76,0.0,0.15,false_positive,Script Injection Path,HIGH,3,192.168.1.20,192.168.1.1,21729,8080,http_alt,1,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.787899,smtp,normal,0,0.997,0.002,0.0,0.15,normal,smtp,INFO,0,10.10.0.5,192.168.1.1,47982,22,ssh,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787919,Hydra HTTP Tool,attack,72,0.428,0.034,0.538,0.15,attack,Hydra HTTP Tool,CRITICAL,4,192.168.126.1,192.168.126.128,54569,80,http,191,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.787954,icmp,normal,0,0.997,0.002,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,192.168.126.139,3236,80,http,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.787990,smtp,false_positive,0,0.4,0.6,0.0,0.15,normal,smtp,INFO,0,192.168.10.5,192.168.126.139,7521,443,https,2,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.788008,SSH Brute Force,attack,70,0.449,0.06,0.491,0.15,attack,SSH Brute Force,LOW,1,192.168.126.133,192.168.126.128,63824,80,http,130,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.788044,Basic Injection Pattern,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Basic Injection Pattern,CRITICAL,4,10.0.0.100,192.168.126.139,42128,80,http,16,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.788081,https,normal,0,0.998,0.002,0.0,0.15,normal,https,INFO,0,10.0.0.15,192.168.1.1,54484,22,ssh,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788117,Basic Injection Pattern,normal,0,0.547,0.453,0.0,0.15,false_positive,Basic Injection Pattern,INFO,0,192.168.1.20,192.168.1.1,8910,0,icmp,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.788152,ftp,normal,0,0.995,0.005,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,10.0.0.1,8249,8080,http_alt,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788188,icmp,normal,0,1.0,0.0,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,192.168.1.1,18552,53,dns,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788222,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,192.168.1.20,192.168.126.139,18848,443,https,2,0,night,1,1,1,0,ICMP
+2026-05-19T12:13:55.788257,https,normal,0,0.997,0.003,0.0,0.15,normal,https,INFO,0,10.10.0.5,192.168.126.139,16556,22,ssh,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788292,https,normal,0,0.998,0.002,0.0,0.15,normal,https,INFO,0,192.168.1.20,192.168.126.139,42199,80,http,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788328,https,normal,0,0.997,0.003,0.0,0.15,normal,https,INFO,0,10.0.0.15,192.168.1.1,3431,80,http,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788364,Sensitive File Probe,false_positive,0,0.054,0.946,0.0,0.15,false_positive,Sensitive File Probe,LOW,1,10.0.0.100,192.168.1.1,55178,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.788383,Hydra HTTP Tool detected,attack,99,0.0,0.0,1.0,0.15,attack,Hydra HTTP Tool detected,LOW,1,192.168.126.133,192.168.126.139,42272,80,http,163,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.788419,smtp,false_positive,0,0.257,0.743,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,10.0.0.1,14417,21,ftp,11,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.788454,https,normal,0,0.997,0.003,0.0,0.15,normal,https,INFO,0,192.168.1.50,192.168.1.1,45607,8080,http_alt,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788489,dns,normal,0,0.996,0.004,0.0,0.15,normal,dns,INFO,0,192.168.10.5,10.0.0.1,6443,80,http,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.788524,ftp,false_positive,0,0.042,0.957,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.126.139,13226,22,ssh,22,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.788558,http,false_positive,0,0.435,0.565,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.1.1,61108,443,https,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.788603,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,HIGH,3,192.168.10.5,192.168.126.128,5953,22,ssh,5,0,business_hours,0,1,0,0,ICMP
+2026-05-19T12:13:55.788641,ftp,normal,0,0.945,0.055,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,10.0.0.1,20308,21,ftp,2,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.789677,Script Injection Path,false_positive,0,0.217,0.783,0.0,0.15,false_positive,Script Injection Path,CRITICAL,4,192.168.1.20,192.168.126.128,12309,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.789742,Basic Injection Pattern,false_positive,0,0.073,0.926,0.0,0.15,false_positive,Basic Injection Pattern,CRITICAL,4,192.168.10.5,192.168.126.139,31410,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.789789,http_alt,normal,0,0.611,0.389,0.0,0.15,normal,http_alt,INFO,0,10.10.0.5,192.168.126.139,22790,22,ssh,8,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.789830,Web Scan,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.1.10,192.168.1.1,11603,8080,http_alt,4,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.789870,icmp,false_positive,0,0.452,0.548,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,192.168.1.1,45393,21,ftp,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.789916,icmp,attack,98,0.015,0.009,0.977,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.126.139,58627,80,http,8,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.789959,https,normal,0,1.0,0.0,0.0,0.15,normal,https,INFO,0,10.10.0.5,192.168.126.139,61915,80,http,2,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790011,ICMP Ping Sweep,false_positive,0,0.094,0.905,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,192.168.1.20,192.168.1.1,16300,80,http,1,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.790059,dns,false_positive,0,0.011,0.988,0.0,0.15,normal,dns,INFO,0,192.168.1.20,10.0.0.1,28395,22,ssh,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790120,https,normal,0,0.996,0.004,0.0,0.15,normal,https,INFO,0,10.10.0.5,10.0.0.1,42493,80,http,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.790167,http_alt,normal,0,1.0,0.0,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,192.168.126.139,64663,22,ssh,8,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.790205,https,normal,0,1.0,0.0,0.0,0.15,normal,https,INFO,0,192.168.1.20,192.168.126.139,58956,443,https,22,1,night,1,1,1,0,ICMP
+2026-05-19T12:13:55.790247,Web Scan,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Web Scan,MEDIUM,2,192.168.10.5,192.168.126.139,47301,443,https,3,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.790290,Web Scan,false_positive,0,0.469,0.531,0.0,0.15,false_positive,Web Scan,LOW,1,192.168.10.5,192.168.1.1,41947,22,ssh,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790339,ssh,false_positive,0,0.102,0.898,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,192.168.1.1,3225,80,http,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790381,dns,false_positive,0,0.101,0.899,0.0,0.15,normal,dns,INFO,0,192.168.1.50,10.0.0.1,59886,80,http,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790426,icmp,normal,0,0.999,0.001,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,10.0.0.1,63250,21,ftp,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.790451,Traversal Path Attempt,attack,77,0.345,0.033,0.622,0.15,attack,Traversal Path Attempt,LOW,1,192.168.126.1,192.168.126.128,56827,80,http,133,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.790496,dns,false_positive,0,0.065,0.935,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.1.1,14076,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790542,HTTP Login Bruteforce,false_positive,0,0.105,0.894,0.0,0.15,false_positive,HTTP Login Bruteforce,CRITICAL,4,10.0.0.100,192.168.126.128,7366,80,http,10,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790585,http,false_positive,0,0.054,0.946,0.0,0.15,normal,http,INFO,0,192.168.1.20,10.0.0.1,61827,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790607,Web Scan,attack,53,0.758,0.031,0.21,0.15,attack,Web Scan,HIGH,3,192.168.126.133,192.168.126.128,62733,22,ssh,168,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.790652,Script Injection Path,false_positive,0,0.087,0.913,0.0,0.15,false_positive,Script Injection Path,CRITICAL,4,192.168.1.20,192.168.126.139,35296,8080,http_alt,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.790696,smtp,normal,0,0.997,0.003,0.0,0.15,normal,smtp,INFO,0,192.168.1.50,10.0.0.1,59502,8080,http_alt,8,0,night,1,1,1,1,ICMP
+2026-05-19T12:13:55.790736,Web Scan,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Web Scan,CRITICAL,4,192.168.10.5,192.168.126.139,41108,80,http,8,0,business_hours,0,1,0,1,TCP
+2026-05-19T12:13:55.790775,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,CRITICAL,4,192.168.1.20,192.168.126.139,58848,8080,http_alt,3,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.790819,ICMP Ping Sweep,false_positive,0,0.066,0.932,0.002,0.15,false_positive,ICMP Ping Sweep,INFO,0,10.0.0.100,192.168.126.128,56682,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790874,ftp,false_positive,0,0.306,0.693,0.001,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.1.1,54072,80,http,16,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.790922,icmp,normal,0,0.995,0.005,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,192.168.126.139,36409,8080,http_alt,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.790945,Sensitive File Probe,attack,83,0.242,0.031,0.727,0.15,attack,Sensitive File Probe,CRITICAL,4,192.168.126.1,192.168.126.128,50679,80,http,203,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.790999,dns,normal,0,1.0,0.0,0.0,0.15,normal,dns,INFO,0,10.0.0.15,10.0.0.1,15552,25,smtp,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791053,icmp,normal,0,0.736,0.264,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,10.0.0.1,2239,443,https,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791097,HTTP Login Bruteforce,false_positive,0,0.215,0.784,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,192.168.10.5,192.168.126.139,29612,8080,http_alt,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791141,dns,normal,0,0.644,0.356,0.0,0.15,normal,dns,INFO,0,10.0.0.15,10.0.0.1,14442,443,https,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791189,HTTP Login Bruteforce,false_positive,0,0.0,1.0,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,192.168.1.10,192.168.126.139,58591,80,http,4,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.791230,icmp,normal,0,0.997,0.003,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,192.168.1.1,63167,22,ssh,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791255,SSH Scan,normal,0,0.68,0.32,0.0,0.15,attack,SSH Scan,LOW,1,192.168.126.133,192.168.126.128,51118,80,http,18,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.791275,Sensitive File Probe,attack,98,0.03,0.004,0.966,0.15,attack,Sensitive File Probe,LOW,1,192.168.126.1,192.168.126.139,32212,80,http,176,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.791294,Hydra HTTP Tool detected,attack,99,0.0,0.0,1.0,0.15,attack,Hydra HTTP Tool detected,LOW,1,192.168.126.133,192.168.126.128,55962,80,http,144,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.791340,icmp,normal,0,0.997,0.003,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.126.139,55021,8080,http_alt,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791387,ssh,normal,0,0.828,0.172,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,192.168.126.139,36429,21,ftp,6,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791431,https,normal,0,1.0,0.0,0.0,0.15,normal,https,INFO,0,192.168.1.20,192.168.126.139,26078,443,https,3,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791470,https,normal,0,0.99,0.01,0.0,0.15,normal,https,INFO,0,192.168.1.50,10.0.0.1,2625,80,http,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791510,ssh,false_positive,0,0.06,0.94,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.126.139,43943,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791548,dns,normal,0,0.686,0.313,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.126.139,61960,21,ftp,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791588,ssh,normal,0,1.0,0.0,0.0,0.15,normal,ssh,INFO,0,192.168.1.20,192.168.126.139,24942,53,dns,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791630,smtp,normal,0,0.997,0.003,0.0,0.15,normal,smtp,INFO,0,10.10.0.5,192.168.126.139,6293,80,http,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791676,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,10.0.0.1,10549,21,ftp,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791719,ssh,normal,0,1.0,0.0,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,192.168.126.139,2848,8080,http_alt,3,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791763,ftp,false_positive,0,0.116,0.883,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,192.168.126.139,2467,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791808,ftp,normal,0,1.0,0.0,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.126.139,17198,21,ftp,38,1,night,1,1,1,0,TCP
+2026-05-19T12:13:55.791849,Traversal Path Attempt,false_positive,0,0.223,0.777,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,172.16.0.5,192.168.126.139,46398,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791889,Traversal Path Attempt,false_positive,0,0.062,0.938,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,192.168.10.5,192.168.126.139,16369,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791930,smtp,false_positive,0,0.068,0.932,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,10.0.0.1,29268,80,http,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.791972,Traversal Path Attempt,false_positive,0,0.221,0.779,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,172.16.0.5,192.168.126.128,46953,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792020,icmp,false_positive,0,0.089,0.911,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,192.168.1.1,9629,80,http,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792061,HTTP Login Bruteforce,false_positive,0,0.039,0.961,0.0,0.15,false_positive,HTTP Login Bruteforce,CRITICAL,4,10.0.0.100,192.168.126.128,8553,8080,http_alt,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792105,dns,false_positive,0,0.485,0.515,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.126.139,18471,8080,http_alt,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792150,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.126.139,37950,21,ftp,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.792198,ssh,normal,0,0.998,0.002,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,10.0.0.1,35994,443,https,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.792240,icmp,normal,0,0.998,0.002,0.0,0.15,normal,icmp,INFO,0,192.168.1.50,192.168.1.1,49731,443,https,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.792283,HTTP Login Bruteforce,false_positive,0,0.0,1.0,0.0,0.15,false_positive,HTTP Login Bruteforce,HIGH,3,192.168.10.5,192.168.1.1,47336,22,ssh,3,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.792334,smtp,false_positive,0,0.216,0.784,0.0,0.15,normal,smtp,INFO,0,192.168.1.50,192.168.1.1,31605,22,ssh,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792381,http_alt,normal,0,0.672,0.328,0.0,0.15,normal,http_alt,INFO,0,10.0.0.15,192.168.1.1,59131,443,https,3,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.792429,Basic Injection Pattern,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,192.168.1.20,192.168.1.1,53745,22,ssh,6,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.792472,Web Scan,false_positive,0,0.28,0.72,0.0,0.15,false_positive,Web Scan,LOW,1,192.168.1.20,192.168.126.128,34369,0,icmp,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792495,SQL Injection pattern,attack,69,0.456,0.07,0.474,0.15,attack,SQL Injection pattern,HIGH,3,192.168.126.1,192.168.126.128,65184,80,http,102,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.792535,dns,normal,0,0.999,0.001,0.0,0.15,normal,dns,INFO,0,192.168.1.50,10.0.0.1,64787,443,https,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.792603,Web Scan,false_positive,0,0.078,0.922,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.1.20,192.168.1.1,1415,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792664,dns,normal,0,0.999,0.001,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.126.139,17450,21,ftp,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.792707,https,false_positive,0,0.238,0.762,0.0,0.15,normal,https,INFO,0,192.168.1.20,192.168.126.139,33758,22,ssh,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792746,http_alt,normal,0,1.0,0.0,0.0,0.15,normal,http_alt,INFO,0,10.0.0.15,192.168.126.139,51061,53,dns,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.792782,dns,normal,0,0.679,0.321,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.126.139,39741,443,https,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792825,smtp,false_positive,0,0.15,0.847,0.003,0.15,normal,smtp,INFO,0,192.168.10.5,192.168.1.1,53595,443,https,8,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.792870,dns,normal,0,0.998,0.002,0.0,0.15,normal,dns,INFO,0,192.168.1.50,192.168.126.139,11115,8080,http_alt,3,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.792916,Script Injection Path,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Script Injection Path,INFO,0,10.0.0.100,192.168.126.139,39717,80,http,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.792965,https,false_positive,0,0.073,0.927,0.0,0.15,normal,https,INFO,0,10.10.0.5,192.168.1.1,50462,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.792988,Hydra HTTP Tool detected,attack,81,0.236,0.081,0.684,0.15,attack,Hydra HTTP Tool detected,CRITICAL,4,192.168.126.133,192.168.126.139,54237,22,ssh,80,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793009,SSH Scan,attack,80,0.282,0.043,0.675,0.15,attack,SSH Scan,LOW,1,192.168.126.133,192.168.126.128,52438,80,http,155,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793057,Script Injection Path,false_positive,0,0.215,0.784,0.001,0.15,false_positive,Script Injection Path,HIGH,3,10.0.0.100,192.168.1.1,18951,0,icmp,6,0,business_hours,1,1,1,1,ICMP
+2026-05-19T12:13:55.793103,Basic Injection Pattern,false_positive,0,0.066,0.934,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,192.168.1.10,192.168.126.128,23658,8080,http_alt,13,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793143,icmp,normal,0,0.855,0.145,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,192.168.1.1,15555,53,dns,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793183,Web Scan,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Web Scan,MEDIUM,2,192.168.1.10,192.168.126.128,11589,8080,http_alt,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.793221,http,normal,0,0.977,0.022,0.0,0.15,normal,http,INFO,0,10.10.0.5,10.0.0.1,41065,25,smtp,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793260,dns,normal,0,0.999,0.001,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.126.139,24854,443,https,8,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793297,icmp,normal,0,0.703,0.297,0.0,0.15,normal,icmp,INFO,0,192.168.10.5,10.0.0.1,40084,443,https,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793335,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.1.1,1843,443,https,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.793372,HTTP Login Bruteforce,false_positive,0,0.105,0.895,0.0,0.15,false_positive,HTTP Login Bruteforce,MEDIUM,2,192.168.1.20,192.168.126.128,49380,80,http,10,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793407,icmp,normal,0,0.999,0.001,0.0,0.15,normal,icmp,INFO,0,192.168.1.50,10.0.0.1,32430,22,ssh,6,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793442,Sensitive File Probe,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Sensitive File Probe,INFO,0,192.168.1.10,192.168.126.128,44571,8080,http_alt,3,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.793478,http_alt,false_positive,0,0.054,0.946,0.0,0.15,normal,http_alt,INFO,0,192.168.1.50,192.168.126.139,18309,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793513,dns,normal,0,0.985,0.015,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.1.1,7418,8080,http_alt,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.793549,Traversal Path Attempt,normal,0,0.889,0.111,0.0,0.15,false_positive,Traversal Path Attempt,CRITICAL,4,10.0.0.100,192.168.126.139,40708,0,icmp,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793584,smtp,normal,0,0.999,0.001,0.0,0.15,normal,smtp,INFO,0,192.168.1.20,10.0.0.1,44043,22,ssh,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.793619,Sensitive File Probe,false_positive,0,0.25,0.75,0.0,0.15,false_positive,Sensitive File Probe,LOW,1,192.168.1.20,192.168.126.128,61199,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793655,dns,normal,0,1.0,0.0,0.0,0.15,normal,dns,INFO,0,10.10.0.5,10.0.0.1,26305,443,https,38,1,night,1,1,1,0,TCP
+2026-05-19T12:13:55.793690,http,false_positive,0,0.434,0.566,0.0,0.15,normal,http,INFO,0,192.168.10.5,192.168.1.1,62539,443,https,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793726,ftp,normal,0,1.0,0.0,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.126.139,14045,53,dns,38,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793765,ssh,normal,0,0.998,0.002,0.0,0.15,normal,ssh,INFO,0,10.10.0.5,192.168.1.1,15756,443,https,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.793785,Hydra HTTP Tool detected,attack,61,0.643,0.014,0.343,0.15,attack,Hydra HTTP Tool detected,HIGH,3,192.168.126.133,192.168.126.139,34237,80,http,135,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793861,ICMP Ping Sweep,false_positive,0,0.07,0.929,0.0,0.15,false_positive,ICMP Ping Sweep,HIGH,3,192.168.1.10,192.168.1.1,9502,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.793883,Traversal Path Attempt,attack,81,0.266,0.043,0.691,0.15,attack,Traversal Path Attempt,HIGH,3,192.168.126.133,192.168.126.139,34548,80,http,117,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793902,Traversal Path Attempt,attack,82,0.262,0.035,0.703,0.15,attack,Traversal Path Attempt,HIGH,3,192.168.126.133,192.168.126.139,53335,80,http,162,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793921,SSH Brute Force,attack,66,0.525,0.041,0.433,0.15,attack,SSH Brute Force,HIGH,3,192.168.126.133,192.168.126.128,62145,80,http,128,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.793963,ssh,normal,0,0.576,0.424,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,10.0.0.1,47641,443,https,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794001,https,normal,0,0.936,0.064,0.0,0.15,normal,https,INFO,0,10.0.0.15,192.168.1.1,36741,53,dns,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794038,HTTP Login Bruteforce,false_positive,0,0.498,0.502,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,192.168.1.10,192.168.1.1,39430,22,ssh,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794075,https,false_positive,1,0.285,0.711,0.004,0.15,normal,https,INFO,0,10.10.0.5,10.0.0.1,53798,25,smtp,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794111,ssh,normal,0,0.892,0.108,0.0,0.15,normal,ssh,INFO,0,192.168.1.50,192.168.126.139,58691,53,dns,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794130,SSH Scan,attack,77,0.349,0.042,0.609,0.15,attack,SSH Scan,HIGH,3,192.168.126.133,192.168.126.139,36079,80,http,125,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794166,Traversal Path Attempt,false_positive,0,0.393,0.606,0.0,0.15,false_positive,Traversal Path Attempt,INFO,0,192.168.10.5,192.168.126.128,25683,443,https,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794202,Basic Injection Pattern,false_positive,0,0.057,0.943,0.0,0.15,false_positive,Basic Injection Pattern,HIGH,3,172.16.0.5,192.168.126.128,33052,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794238,https,false_positive,0,0.039,0.961,0.0,0.15,normal,https,INFO,0,192.168.1.20,10.0.0.1,49761,21,ftp,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794274,http_alt,false_positive,0,0.351,0.648,0.0,0.15,normal,http_alt,INFO,0,10.10.0.5,192.168.126.139,18309,80,http,16,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794310,Script Injection Path,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Script Injection Path,LOW,1,192.168.1.20,192.168.126.128,44552,80,http,1,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.794347,Script Injection Path,false_positive,0,0.251,0.748,0.0,0.15,false_positive,Script Injection Path,CRITICAL,4,172.16.0.5,192.168.126.139,6295,0,icmp,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794383,dns,false_positive,0,0.393,0.607,0.0,0.15,normal,dns,INFO,0,192.168.10.5,10.0.0.1,16298,22,ssh,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794419,ftp,normal,0,0.999,0.001,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.1.1,21130,22,ssh,8,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794438,Web Scan,attack,73,0.405,0.047,0.548,0.15,attack,Web Scan,CRITICAL,4,192.168.126.133,192.168.126.139,61191,80,http,180,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794474,HTTP Login Bruteforce,false_positive,0,0.053,0.947,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,192.168.1.10,192.168.126.139,64198,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794490,SSH Scan,attack,67,0.084,0.463,0.453,0.15,attack,SSH Scan,LOW,1,192.168.126.1,192.168.126.128,46602,80,http,16,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794526,Basic Injection Pattern,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,10.0.0.100,192.168.126.128,2103,80,http,2,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.794544,Sensitive File Probe,attack,64,0.578,0.02,0.402,0.15,attack,Sensitive File Probe,HIGH,3,192.168.126.133,192.168.126.128,56760,80,http,118,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794579,http,normal,0,0.911,0.089,0.0,0.15,normal,http,INFO,0,10.0.0.15,10.0.0.1,20427,53,dns,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794622,Traversal Path Attempt,false_positive,0,0.124,0.875,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,172.16.0.5,192.168.126.128,50849,80,http,13,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794659,HTTP Login Bruteforce,false_positive,0,0.062,0.938,0.0,0.15,false_positive,HTTP Login Bruteforce,MEDIUM,2,192.168.1.20,192.168.126.128,49782,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794694,Script Injection Path,false_positive,0,0.067,0.933,0.0,0.15,false_positive,Script Injection Path,HIGH,3,192.168.1.10,192.168.126.139,30755,80,http,10,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794713,Hydra HTTP Tool detected,attack,99,0.002,0.001,0.997,0.15,attack,Hydra HTTP Tool detected,HIGH,3,192.168.126.133,192.168.126.139,63827,80,http,183,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794754,HTTP Login Bruteforce,normal,0,0.627,0.373,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,192.168.10.5,192.168.126.128,52096,22,ssh,8,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.794800,dns,normal,0,0.996,0.004,0.0,0.15,normal,dns,INFO,0,192.168.1.20,10.0.0.1,50736,8080,http_alt,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.794846,http_alt,normal,0,0.937,0.063,0.0,0.15,normal,http_alt,INFO,0,10.0.0.15,192.168.126.139,9794,53,dns,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794892,dns,false_positive,0,0.118,0.882,0.0,0.15,normal,dns,INFO,0,10.0.0.15,192.168.126.139,44975,8080,http_alt,22,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.794912,Web Scan,false_positive,0,0.083,0.917,0.0,0.15,attack,Web Scan,LOW,1,192.168.126.133,192.168.126.128,38279,80,http,10,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.794955,ftp,normal,0,0.603,0.397,0.0,0.15,normal,ftp,INFO,0,10.10.0.5,192.168.1.1,46443,443,https,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795000,http_alt,normal,0,0.999,0.001,0.0,0.15,normal,http_alt,INFO,0,192.168.10.5,10.0.0.1,27336,22,ssh,2,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.795046,icmp,normal,0,0.998,0.002,0.0,0.15,normal,icmp,INFO,0,192.168.1.20,192.168.1.1,10204,443,https,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.795094,Traversal Path Attempt,false_positive,0,0.251,0.749,0.0,0.15,false_positive,Traversal Path Attempt,HIGH,3,192.168.1.10,192.168.126.128,12750,0,icmp,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795139,dns,normal,0,0.951,0.049,0.0,0.15,normal,dns,INFO,0,10.0.0.15,192.168.1.1,55317,25,smtp,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795182,ICMP Ping Sweep,false_positive,0,0.247,0.753,0.0,0.15,false_positive,ICMP Ping Sweep,LOW,1,10.0.0.100,192.168.126.139,59422,80,http,5,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795225,ftp,normal,0,0.998,0.002,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,192.168.1.1,55164,443,https,6,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.795247,SQL Injection pattern,attack,99,0.0,0.0,1.0,0.15,attack,SQL Injection pattern,HIGH,3,192.168.126.1,192.168.126.128,40096,80,http,137,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.795296,http,normal,0,0.999,0.001,0.0,0.15,normal,http,INFO,0,192.168.1.20,10.0.0.1,32151,443,https,2,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.795322,SQL Injection pattern,attack,62,0.482,0.151,0.367,0.15,attack,SQL Injection pattern,CRITICAL,4,192.168.126.133,192.168.126.128,30830,22,ssh,166,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.795370,Traversal Path Attempt,false_positive,0,0.016,0.984,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,192.168.1.20,192.168.126.128,22734,22,ssh,10,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795414,HTTP Login Bruteforce,false_positive,0,0.059,0.941,0.0,0.15,false_positive,HTTP Login Bruteforce,LOW,1,10.0.0.100,192.168.1.1,43036,80,http,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795461,icmp,normal,0,0.999,0.001,0.0,0.15,normal,icmp,INFO,0,192.168.1.50,192.168.126.139,15418,53,dns,11,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.795512,http_alt,normal,0,0.999,0.001,0.0,0.15,normal,http_alt,INFO,0,10.0.0.15,192.168.1.1,10210,21,ftp,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.795556,Traversal Path Attempt,false_positive,0,0.295,0.705,0.0,0.15,false_positive,Traversal Path Attempt,CRITICAL,4,192.168.10.5,192.168.126.128,56566,0,icmp,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795598,Basic Injection Pattern,false_positive,0,0.459,0.541,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,10.0.0.100,192.168.126.139,52174,8080,http_alt,4,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.795620,Traversal Path Attempt,attack,81,0.294,0.028,0.677,0.15,attack,Traversal Path Attempt,LOW,1,192.168.126.1,192.168.126.128,47438,80,http,145,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.795666,Basic Injection Pattern,false_positive,0,0.116,0.881,0.002,0.15,false_positive,Basic Injection Pattern,LOW,1,192.168.1.10,192.168.126.139,57946,80,http,4,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.795711,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,172.16.0.5,192.168.126.139,41767,443,https,6,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.795756,Traversal Path Attempt,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,192.168.1.10,192.168.126.139,4646,80,http,3,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.795808,smtp,normal,0,0.864,0.133,0.003,0.15,normal,smtp,INFO,0,10.10.0.5,10.0.0.1,31519,22,ssh,2,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.795854,icmp,normal,0,0.993,0.007,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.126.139,37204,80,http,16,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.795906,Web Scan,false_positive,0,0.074,0.926,0.0,0.15,false_positive,Web Scan,HIGH,3,10.0.0.100,192.168.126.139,42150,80,http,8,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.795932,Web Scan,attack,99,0.004,0.002,0.994,0.15,attack,Web Scan,LOW,1,192.168.126.133,192.168.126.139,64588,80,http,180,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.795977,Basic Injection Pattern,false_positive,0,0.06,0.94,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,192.168.1.10,192.168.1.1,17794,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796024,ICMP Ping Sweep,false_positive,0,0.0,1.0,0.0,0.15,false_positive,ICMP Ping Sweep,CRITICAL,4,172.16.0.5,192.168.126.139,1324,8080,http_alt,8,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.796064,HTTP Login Bruteforce,false_positive,0,0.055,0.945,0.0,0.15,false_positive,HTTP Login Bruteforce,HIGH,3,10.0.0.100,192.168.1.1,61188,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796105,Web Scan,false_positive,0,0.102,0.898,0.0,0.15,false_positive,Web Scan,HIGH,3,192.168.1.20,192.168.1.1,17620,80,http,10,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796131,SSH Scan,attack,79,0.313,0.043,0.644,0.15,attack,SSH Scan,LOW,1,192.168.126.1,192.168.126.139,41898,80,http,220,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.796185,icmp,false_positive,0,0.453,0.547,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.1.1,47469,8080,http_alt,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796236,icmp,normal,0,1.0,0.0,0.0,0.15,normal,icmp,INFO,0,192.168.1.20,192.168.126.139,64816,53,dns,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.796288,smtp,normal,0,0.672,0.328,0.0,0.15,normal,smtp,INFO,0,10.10.0.5,192.168.126.139,36728,25,smtp,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796340,http,normal,0,0.997,0.003,0.0,0.15,normal,http,INFO,0,192.168.1.20,192.168.126.139,26510,80,http,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.796388,smtp,normal,0,0.999,0.001,0.0,0.15,normal,smtp,INFO,0,10.0.0.15,192.168.126.139,1914,443,https,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.796437,Sensitive File Probe,false_positive,0,0.273,0.727,0.0,0.15,false_positive,Sensitive File Probe,MEDIUM,2,172.16.0.5,192.168.126.139,20237,0,icmp,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796484,dns,normal,0,0.999,0.001,0.0,0.15,normal,dns,INFO,0,192.168.1.20,192.168.126.139,38893,443,https,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.796532,https,normal,0,0.999,0.001,0.0,0.15,normal,https,INFO,0,192.168.1.20,192.168.126.139,49410,443,https,4,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.796581,ftp,normal,0,0.839,0.16,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.1.1,28948,21,ftp,1,0,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.796645,ftp,false_positive,0,0.044,0.956,0.0,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.1.1,16620,22,ssh,22,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796693,ftp,false_positive,0,0.06,0.94,0.0,0.15,normal,ftp,INFO,0,192.168.1.50,192.168.1.1,64886,80,http,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796732,https,false_positive,0,0.402,0.598,0.0,0.15,normal,https,INFO,0,10.0.0.15,192.168.1.1,63193,22,ssh,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796769,smtp,false_positive,0,0.487,0.513,0.0,0.15,normal,smtp,INFO,0,192.168.1.20,192.168.126.139,27354,443,https,16,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.796804,http_alt,normal,0,0.999,0.001,0.0,0.15,normal,http_alt,INFO,0,192.168.1.50,192.168.1.1,19326,25,smtp,8,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.796840,smtp,normal,0,0.943,0.057,0.0,0.15,normal,smtp,INFO,0,192.168.1.20,10.0.0.1,60984,25,smtp,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796875,dns,normal,0,0.911,0.089,0.0,0.15,normal,dns,INFO,0,10.0.0.15,10.0.0.1,25330,53,dns,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796911,ftp,normal,0,0.998,0.002,0.001,0.15,normal,ftp,INFO,0,192.168.10.5,192.168.126.139,64639,22,ssh,38,1,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.796947,ICMP Ping Sweep,false_positive,0,0.247,0.752,0.002,0.15,false_positive,ICMP Ping Sweep,INFO,0,192.168.10.5,192.168.126.139,61044,80,http,5,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.796983,ftp,normal,0,0.996,0.004,0.0,0.15,normal,ftp,INFO,0,192.168.1.20,192.168.1.1,6232,53,dns,8,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.797019,ssh,normal,0,0.933,0.067,0.0,0.15,normal,ssh,INFO,0,10.0.0.15,192.168.1.1,23859,25,smtp,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797054,ssh,normal,0,0.979,0.021,0.0,0.15,normal,ssh,INFO,0,192.168.1.20,192.168.1.1,42358,53,dns,16,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797090,http,normal,0,0.998,0.002,0.0,0.15,normal,http,INFO,0,10.10.0.5,192.168.1.1,2770,80,http,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.797125,ssh,normal,0,0.868,0.132,0.0,0.15,normal,ssh,INFO,0,192.168.10.5,192.168.126.139,20359,8080,http_alt,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797146,Web Scan,attack,99,0.0,0.0,1.0,0.15,attack,Web Scan,HIGH,3,192.168.126.133,192.168.126.139,51767,80,http,167,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.797181,icmp,normal,0,0.996,0.004,0.0,0.15,normal,icmp,INFO,0,10.0.0.15,192.168.1.1,32427,443,https,6,0,night,1,1,1,1,TCP
+2026-05-19T12:13:55.797217,icmp,false_positive,0,0.412,0.588,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,10.0.0.1,42516,22,ssh,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797253,Traversal Path Attempt,normal,0,0.519,0.481,0.0,0.15,false_positive,Traversal Path Attempt,LOW,1,172.16.0.5,192.168.126.128,5879,443,https,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797289,http_alt,false_positive,0,0.009,0.991,0.0,0.15,normal,http_alt,INFO,0,192.168.1.20,192.168.1.1,49575,22,ssh,16,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797324,Web Scan,false_positive,0,0.071,0.929,0.0,0.15,false_positive,Web Scan,CRITICAL,4,172.16.0.5,192.168.126.128,31451,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797359,icmp,false_positive,0,0.085,0.915,0.0,0.15,normal,icmp,INFO,0,10.10.0.5,10.0.0.1,18187,8080,http_alt,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.797395,ftp,normal,0,0.988,0.012,0.0,0.15,normal,ftp,INFO,0,10.0.0.15,192.168.126.139,21850,21,ftp,11,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.797431,HTTP Login Bruteforce,false_positive,0,0.041,0.958,0.001,0.15,false_positive,HTTP Login Bruteforce,INFO,0,192.168.1.10,192.168.126.139,62457,0,icmp,6,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.797466,dns,normal,0,0.88,0.12,0.0,0.15,normal,dns,INFO,0,10.10.0.5,192.168.1.1,22004,443,https,11,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797501,Traversal Path Attempt,false_positive,0,0.053,0.947,0.0,0.15,false_positive,Traversal Path Attempt,CRITICAL,4,10.0.0.100,192.168.1.1,13820,80,http,1,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797536,dns,normal,0,0.945,0.055,0.0,0.15,normal,dns,INFO,0,192.168.10.5,192.168.126.139,15233,53,dns,11,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797571,HTTP Login Bruteforce,false_positive,0,0.058,0.941,0.0,0.15,false_positive,HTTP Login Bruteforce,INFO,0,192.168.1.10,192.168.126.139,42668,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797606,dns,normal,0,0.867,0.133,0.0,0.15,normal,dns,INFO,0,192.168.1.50,10.0.0.1,43546,443,https,4,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797642,https,normal,0,0.638,0.362,0.0,0.15,normal,https,INFO,0,10.10.0.5,10.0.0.1,7887,443,https,3,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.797677,dns,normal,0,0.998,0.002,0.0,0.15,normal,dns,INFO,0,192.168.1.50,192.168.126.139,13515,22,ssh,3,0,night,1,1,1,0,TCP
+2026-05-19T12:13:55.797712,ICMP Ping Sweep,false_positive,0,0.057,0.943,0.0,0.15,false_positive,ICMP Ping Sweep,CRITICAL,4,192.168.1.10,192.168.126.139,35650,80,http,6,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797752,Script Injection Path,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Script Injection Path,INFO,0,192.168.1.10,192.168.1.1,56773,80,http,10,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.797789,dns,normal,0,0.881,0.119,0.0,0.15,normal,dns,INFO,0,192.168.1.50,10.0.0.1,46654,443,https,1,0,after_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797825,Sensitive File Probe,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Sensitive File Probe,HIGH,3,172.16.0.5,192.168.1.1,38481,80,http,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.797862,smtp,false_positive,0,0.494,0.506,0.0,0.15,normal,smtp,INFO,0,10.10.0.5,10.0.0.1,30999,8080,http_alt,2,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797898,Basic Injection Pattern,normal,0,0.572,0.428,0.0,0.15,false_positive,Basic Injection Pattern,LOW,1,192.168.1.10,192.168.126.128,2935,8080,http_alt,2,0,business_hours,1,1,1,0,ICMP
+2026-05-19T12:13:55.797918,Sensitive File Probe,attack,78,0.335,0.034,0.631,0.15,attack,Sensitive File Probe,LOW,1,192.168.126.133,192.168.126.139,56983,80,http,132,1,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.797954,https,false_positive,0,0.063,0.937,0.0,0.15,normal,https,INFO,0,10.10.0.5,192.168.1.1,39188,80,http,4,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.797974,Web Scan,attack,56,0.718,0.024,0.257,0.15,attack,Web Scan,LOW,1,192.168.126.1,192.168.126.139,61786,80,http,169,1,after_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.798010,Traversal Path Attempt,false_positive,0,0.122,0.878,0.0,0.15,false_positive,Traversal Path Attempt,HIGH,3,192.168.1.10,192.168.1.1,27568,80,http,3,0,business_hours,1,1,1,1,TCP
+2026-05-19T12:13:55.798045,Sensitive File Probe,false_positive,0,0.0,1.0,0.0,0.15,false_positive,Sensitive File Probe,HIGH,3,192.168.1.10,192.168.126.139,9324,80,http,5,0,business_hours,0,1,0,0,TCP
+2026-05-19T12:13:55.798080,dns,false_positive,0,0.459,0.541,0.0,0.15,normal,dns,INFO,0,10.10.0.5,10.0.0.1,22693,22,ssh,3,0,business_hours,1,1,1,0,TCP
+2026-05-19T12:13:55.798100,Hydra HTTP Tool detected,attack,76,0.362,0.043,0.594,0.15,attack,Hydra HTTP Tool detected,HIGH,3,192.168.126.133,192.168.126.139,54744,80,http,113,1,business_hours,1,1,1,1,TCP
